@@ -39,7 +39,7 @@ Using `pivot_longer()` to "lengthen" / tidy our data:
 
 ```{r}
 # convert data from wide > long ----
-temp_data_long <- temp_data_wide |> 
+temp_data_long <- temp_data_wide %>%  
   pivot_longer(cols = starts_with("station"),
                names_to = "station_id",
                values_to = "temp_c")

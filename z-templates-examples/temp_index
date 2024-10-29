@@ -1,5 +1,5 @@
 ---
-title: "EDS 241 - Environmental Policy Evaluation"
+title: "Course Title"
 subtitle: "Master of Environmental Data Science (MEDS)"
 description: "Winter 2025"
 title-block-banner: false
@@ -26,7 +26,7 @@ toc: false
 
 ## Course Description
 
-This course will present state of the art program evaluation techniques necessary to evaluate the impact of environmental policies. The program evaluation methods presented will aim at identifying and measuring the causal effect of policies, regulations, and interventions on environmental outcomes of interest. Students will learn the research designs and methods for estimating causal effects with experimental and non-experimental data. This will prepare the students for interpreting and conducting high-quality empirical research, with applications in cross-sectional data and panel data settings.
+Add your course description here (can be copied over from your syllabus or the affiliated Bren course page)
 
 ## Teaching Team
 
@@ -49,9 +49,9 @@ This course will present state of the art program evaluation techniques necessar
 knitr::include_graphics("images/tbd.png")
 ```
 ::: {.center-text}
-[**Adam Garber**]{.teal-text}  
-**Email:** [agarber@ucsb.edu](mailto::agarber@ucsb.edu)  
-**Student hours:** WeekdayX XX pm - XX pm @ Bren XX
+[**Instructor's Name**]{.teal-text}  
+**Email:** [email@ucsb.edu](mailto::email@bren.ucsb.edu)  
+**Learn more:** link to preferred online profile here  
 :::
 :::
 
@@ -68,9 +68,9 @@ knitr::include_graphics("images/tbd.png")
 knitr::include_graphics("images/tbd.png")
 ```
 ::: {.center-text}
-[**Annie Adams**]{.teal-text}  
-**Email:** [aradams@ucsb.edu](mailto::aradams@ucsb.edu)   
-**Student hours:** WeekdayX XX pm - XX pm @ Bren XX
+[**TA's Name**]{.teal-text}  
+**Email:** [email@bren.ucsb.edu](mailto::email@bren.ucsb.edu)   
+**Learn more:** link to preferred online profile here
 :::
 :::
 
@@ -78,9 +78,4 @@ knitr::include_graphics("images/tbd.png")
 
 ## Acknowledgements
 
-This website was developed from a [template](https://github.com/UCSB-MEDS/EDS-website-template?tab=readme-ov-file) authored by [Sam Csik](samanthacsik.github.io). This new website houses materials which are heavily reused, adapted from, and inspired by Sam Csik's original work.
-
-
-
-
-
+Add any acknowledgements here (e.g. any resources or people you drew lots of inspiration or help from when building your materials?)

@@ -3,6 +3,12 @@ project:
   output-dir: docs
 
 website:
+  announcement:
+    icon: info-circle
+    dismissable: false
+    type: primary
+    position: above-navbar
+    content: "This website is currently under development! (edit or remove this banner in `_quarto.yml`)"
   title: "EDS 123"
   favicon: images/bren-hex.png
   navbar:
@@ -10,7 +16,8 @@ website:
       - href: index.qmd
         text: home
       - text: syllabus
-        href: https://docs.google.com/document/d/18vjjCoYy5GBDBaK8tXu2S5TPpVdwUT-3k6qK1iu5NZc/edit?usp=sharing
+        href: https://docs.google.com/document/d/1hoo2DEroXlqBhhc6LmnsYFe8_7IbHny5yk7yXLfQp-4/edit?usp=sharing
+        target: _blank
       - text: course materials
         menu:
           - text: week 1 (DD/MM)
@@ -25,6 +32,7 @@ website:
             href: resources.qmd
           - text: MEDS installation guide
             href: https://ucsb-meds.github.io/MEDS-installation-guide/
+            target: _blank
       - icon: github
         menu:
           - text: Source Code
