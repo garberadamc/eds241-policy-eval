@@ -25,7 +25,7 @@
     "href": "index.html#acknowledgements",
     "title": "EDS 241 - Environmental Policy Evaluation",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis website was developed from a template authored by Sam Csik. This new website houses materials which are heavily reused, adapted from, and inspired by Sam Csik’s original work."
+    "text": "Acknowledgements\nThis website was developed from a template authored by Sam Csik. This new website houses materials which are heavily reused, adapted from, and inspired by Sam Csik’s original work. This website was made using Quarto and the repository used to make this website can be found here."
   },
   {
     "objectID": "course-materials/labs/lab1.1.html",

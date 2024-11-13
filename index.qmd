@@ -105,7 +105,7 @@ knitr::include_graphics("images/tbd.png")
 
 ## Acknowledgements
 
-This website was developed from a [template](https://github.com/UCSB-MEDS/EDS-website-template?tab=readme-ov-file) authored by [Sam Csik](samanthacsik.github.io). This new website houses materials which are heavily reused, adapted from, and inspired by Sam Csik's original work.
+This website was developed from a [template](https://github.com/UCSB-MEDS/EDS-website-template?tab=readme-ov-file) authored by [Sam Csik](samanthacsik.github.io). This new website houses materials which are heavily reused, adapted from, and inspired by Sam Csik's original work. This website was made using `Quarto` and the repository used to make this website can be found [here](https://github.com/garberadamc/eds241-policy-eval).
 
 
 
