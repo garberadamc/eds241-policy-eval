@@ -10,8 +10,7 @@ toc: false
 
 <br>
 
-::: {.center-text}
-
+::: center-text
 ```{r,echo=FALSE}
 cat(
 "  %%%%%%%%   @@@@@@     ))))))))        @@@@@@    ^      ^       *   \n",
@@ -40,15 +39,12 @@ cat("     //////||\\\\\\\\\\\\      \n",
     "    \\\\\\\\\\\\||//////      \n"
     )
 ```
-
 :::
 
 <br>
 
-::: {.callout-tip}
-
+::: callout-tip
 ### Welcome to the course website for EDS 241!
-
 :::
 
 ## Course Description
@@ -61,13 +57,14 @@ This course will present state of the art program evaluation techniques necessar
 
 <!-- Create responsive grid with two columns, which stack vertically when browser window is made smaller (or when viewed on a mobile device) -->
 
-::: {.grid}
-
+::::::::: grid
 <!-- Left-hand column -->
-::: {.g-col-12 .g-col-md-6}
+
+::::: {.g-col-12 .g-col-md-6}
 ::: {.center-text .body-text-l}
 **Instructor**
 :::
+
 ```{r}
 #| eval: true 
 #| echo: false
@@ -75,18 +72,21 @@ This course will present state of the art program evaluation techniques necessar
 #| out-width: "45%" 
 knitr::include_graphics("images/headshot-241.png")
 ```
-::: {.center-text}
-[**Adam Garber**]{.teal-text}  
-**Email:** [agarber@ucsb.edu](mailto::agarber@ucsb.edu)  
-**Student hours:** WeekdayX XX pm - XX pm @ Bren XX
+
+::: center-text
+[**Adam Garber**]{.teal-text}\
+**Email:** [agarber\@ucsb.edu](mailto::agarber@ucsb.edu)\
+**Student hours:** WeekdayX XX pm - XX pm \@ Bren XX
 :::
-:::
+:::::
 
 <!-- Right-hand column -->
-::: {.g-col-12 .g-col-md-6}
+
+::::: {.g-col-12 .g-col-md-6}
 ::: {.center-text .body-text-l}
 **TA**
 :::
+
 ```{r}
 #| eval: true 
 #| echo: false
@@ -94,20 +94,15 @@ knitr::include_graphics("images/headshot-241.png")
 #| out-width: "45%" 
 knitr::include_graphics("images/annie_picture.png")
 ```
-::: {.center-text}
-[**Annie Adams**]{.teal-text}  
-**Email:** [aradams@ucsb.edu](mailto::aradams@ucsb.edu)   
-**Student hours:** WeekdayX XX pm - XX pm @ Bren XX
-:::
-:::
 
+::: center-text
+[**Annie Adams**]{.teal-text}\
+**Email:** [aradams\@ucsb.edu](mailto::aradams@ucsb.edu)\
+**Student hours:** WeekdayX XX pm - XX pm \@ Bren XX
 :::
+:::::
+:::::::::
 
 ## Acknowledgements
 
 This website was developed from a [template](https://github.com/UCSB-MEDS/EDS-website-template?tab=readme-ov-file) authored by [Sam Csik](samanthacsik.github.io). This new website houses materials which are heavily reused, adapted from, and inspired by Sam Csik's original work. This website was made using `Quarto` and the repository used to make this website can be found [here](https://github.com/garberadamc/eds241-policy-eval).
-
-
-
-
-
