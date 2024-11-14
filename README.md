@@ -17,6 +17,16 @@
  %%%%%%%%   @@@@@@     ))))))))       @@@@@@@           ^     ***** 
 ```
 
+## Meeting Time & Location
+
+### Meeting Time
+
+**Wednesday, 9:30-10:45 am**
+
+### Location
+
+**Bren Hall 1424**
+
 
 
 ## Course Description
