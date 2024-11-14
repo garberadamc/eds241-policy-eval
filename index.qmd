@@ -92,7 +92,7 @@ knitr::include_graphics("images/headshot-241.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "45%" 
-knitr::include_graphics("images/tbd.png")
+knitr::include_graphics("images/annie_picture.png")
 ```
 ::: {.center-text}
 [**Annie Adams**]{.teal-text}  
