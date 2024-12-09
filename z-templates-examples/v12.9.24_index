@@ -24,6 +24,21 @@ cat(
 " %%%%%%%%   @@@@@@     ))))))))       @@@@@@@           ^     ***** \n")
 ```
 
+<br>
+
+```{r,echo=FALSE}
+cat("     //////||\\\\\\\\\\\\      \n",
+    "      /              \\        \n",
+    "   / \\   \\/   \\  / \\     \n",
+    "  /   \\   \\    \\/   \\    \n",
+    "   /     M  E  D  S    \\     \n",
+    "   \\       \\  \\/      /     \n",
+    "    \\        \\/       /      \n",
+    "     \\        |       /       \n",
+    "      \\       |      /        \n",
+    "    \\\\\\\\\\\\||//////      \n"
+    )
+```
 :::
 
 <br>
@@ -61,14 +76,7 @@ knitr::include_graphics("images/headshot-241.png")
 ::: center-text
 [**Adam Garber**]{.teal-text}\
 **Email:** [agarber\@ucsb.edu](mailto::agarber@ucsb.edu)\
-**Office hours (subject to change):**\
-Monday 9-11 am \@ BH 3526 (Pine Room)\
-Thursday 3-5 pm \@ BH 3526 (Pine Room)\
-**Alternate instructor availability:**\
-Tuesday 3-4 pm \@ BH 3418 (by appointment)\
-Wednesday (after class)\
-Friday 10-12 pm \@ BH 3418 (by appointment)\
-
+**Student hours:** WeekdayX XX pm - XX pm \@ Bren XX
 :::
 :::::
 
@@ -90,22 +98,10 @@ knitr::include_graphics("images/annie_picture.png")
 ::: center-text
 [**Annie Adams**]{.teal-text}\
 **Email:** [aradams\@ucsb.edu](mailto::aradams@ucsb.edu)\
-**Office hours (subject to change):**\
-Thursday 11 am - 12pm \@ BH 3418 
-
+**Student hours:** WeekdayX XX pm - XX pm \@ Bren XX
 :::
 :::::
 :::::::::
-
-## Meeting Time & Location
-
-### Time
-
-Wednesday, 9:30-10:45 am\
-
-### Location
-
-Bren Hall 1424
 
 ## Acknowledgements
 
