@@ -42,7 +42,7 @@ website:
   page-footer:
     background: dark
     right: This website is built with [{{< fa brands github title="the github octocat logo" >}}](https://github.com/UCSB-MEDS/EDS-website-template) and [Quarto](https://quarto.org/)
-    left: This work is licensed under \< &copy MIT; 2024 Adam Garber\> 
+    left: This work is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a> © 2024
 
 format:
   html:
