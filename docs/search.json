@@ -25,7 +25,7 @@
     "href": "index.html#acknowledgements",
     "title": "EDS 241 - Environmental Policy Evaluation",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis website was developed from a template authored by Sam Csik. This new website houses materials which are heavily reused, adapted from, and inspired by Sam Csik’s original work. This website was made using Quarto and the repository used to make this website can be found here."
+    "text": "Acknowledgements\nThis website was developed from a template authored by Sam Csik. The EDS 241 course website houses materials which are heavily reused, adapted from, and inspired by Sam Csik’s original work. This website was made using Quarto and the repository used to make this website can be found here."
   },
   {
     "objectID": "course-materials/labs/lab1.1.html",
@@ -58,30 +58,30 @@
   {
     "objectID": "course-materials/week1.html",
     "href": "course-materials/week1.html",
-    "title": "This week’s topic(s)",
+    "title": "This week’s topic(s):",
     "section": "",
-    "text": "The following layout is only a suggestion\n\n\n\nAdd / arrange content in whatever way is best your course – be sure to check out examples of other MEDS course websites for inspiration!"
+    "text": "Welcome to the page for all things Week 1!"
   },
   {
     "objectID": "course-materials/week1.html#lecture-materials",
     "href": "course-materials/week1.html#lecture-materials",
-    "title": "This week’s topic(s)",
+    "title": "This week’s topic(s):",
     "section": " Lecture Materials",
-    "text": "Lecture Materials\nConsider linking to lecture materials in a table. Check out this Markdown Tables Generator for quickly formatting tables.\n\n {.hover .bordered}\n\n\n\n\n\n\n\nLecture slides\nLab\nAnswer key\n\n\n\n\nLecture 1.1: topic X\nLab 1.1\nLab 1.1 Key\n\n\nLecture 1.2: topic X\nNA\nNA"
+    "text": "Lecture Materials\n\n\n\n\n\n\n\n\nLecture slides\nLab\nAnswer key\n\n\n\n\nLecture 1: Intro. to Casual Inference\nLab 1 - Generalize fast!\nNA; Added after class"
   },
   {
     "objectID": "course-materials/week1.html#discussion-materials",
     "href": "course-materials/week1.html#discussion-materials",
-    "title": "This week’s topic(s)",
-    "section": " Discussion Materials",
-    "text": "Discussion Materials\nYou can also create buttons that link to content.\n\nThis week’s discussion topic here\n Discussion 1 slides"
+    "title": "This week’s topic(s):",
+    "section": " Extra Resources",
+    "text": "Extra Resources\n\nExtra resources will be added here\n Extra Resources Folder"
   },
   {
     "objectID": "course-materials/week1.html#assignment-reminders",
     "href": "course-materials/week1.html#assignment-reminders",
-    "title": "This week’s topic(s)",
+    "title": "This week’s topic(s):",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n {.hover .bordered}\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nHW\nHomework Assignment #1\nDD/MM/YYYY\nDD/MM/YYYY, 11:59pm PT"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week1\n01/08/2025\n01/08/2025, 11:55pm\n\n\nAssignment 1\nHW1-LOBSTRS\n01/08/2025\n01/22/2025, 11:55pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 2\n01/08/2025\n01/15/2025\n\n\nReading - Article\nCareful read: Buntaine et al. (2024)\n01/08/2025\n(1) Read study carefully before the guest lecture! (2) Think of questions for Prof. Mark Buntaine"
   },
   {
     "objectID": "course-materials/week2.html",
