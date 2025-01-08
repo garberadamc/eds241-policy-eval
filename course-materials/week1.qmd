@@ -12,7 +12,7 @@ description: "Week 1: Monday January 8^th^, 2025"
 
 | Lecture slides | Lab |  Answer key |
 |----------------|------|------------|
-| [Lecture 1: Intro. to Casual Inference](){target="_blank"} | [Lab 1 - Generalize fast!](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *NA; Added after class* |
+| [Lecture 1: Intro. to Casual Inference](){target="_blank"} | [Handout: Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast),  [Repo: Lab1-Generalize-Fast ](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *Key will be added after class* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
@@ -22,7 +22,7 @@ description: "Week 1: Monday January 8^th^, 2025"
 | Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
 |-----------------|-----------------------------------------------|----------------|----------------------------|
 | End of Class Survey | [EOC-Week1](https://forms.gle/e1SFjjG4xsgMx88s7) | 01/08/2025 | 01/08/2025, 11:55pm |
-| Assignment 1 | [HW1-LOBSTRS](https://github.com/garberadamc/HW1-LOBSTRS-EDS241.git) | 01/08/2025 | 01/22/2025, 11:55pm |
+| Assignment 1 | [Handout: HW1-LOBSTRS](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241) , [Repository: HW1-LOBSTRS](https://github.com/garberadamc/HW1-LOBSTRS-EDS241.git) | 01/08/2025 | 01/22/2025, 11:55pm |
 | Reading - *Mastering 'Metrics*  | A&P: Chapter 2  | 01/08/2025 | 01/15/2025 |
 | Reading - Article  | Careful read: [Buntaine et al. (2024)](https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view)  | 01/08/2025 | (1) Read study carefully before the guest lecture! (2) Think of questions for Prof. Mark Buntaine |
 
