@@ -12,7 +12,7 @@ description: "Week 1: Monday January 8^th^, 2025"
 
 | Lecture slides | Lab |  Answer key |
 |----------------|------|------------|
-| [Lecture 1: Intro. to Casual Inference](https://drive.google.com/file/d/1FzwRi8Lh6snUfv5gX4fa-APQxk9TnVVz/view?usp=sharing){target="_blank"} | [Handout: Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast),  [Repo: Lab1-Generalize-Fast ](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *Key will be added after class* |
+| [Lecture 1: Intro. to Casual Inference](https://drive.google.com/file/d/1FzwRi8Lh6snUfv5gX4fa-APQxk9TnVVz/view?usp=sharing){target="_blank"} | [Handout: Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast){target="_blank"},  [Repo: Lab1-Generalize-Fast ](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *Key will be added after class* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
@@ -21,10 +21,10 @@ description: "Week 1: Monday January 8^th^, 2025"
 
 | Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
 |-----------------|-----------------------------------------------|----------------|----------------------------|
-| End of Class Survey | [EOC-Week1](https://forms.gle/e1SFjjG4xsgMx88s7) | 01/08/2025 | 01/08/2025, 11:55pm |
-| Assignment 1 | [Handout: HW1-LOBSTRS](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241) , [Repository: HW1-LOBSTRS](https://github.com/garberadamc/HW1-LOBSTRS-EDS241.git) | 01/08/2025 | 01/22/2025, 11:55pm |
+| End of Class Survey | [EOC-Week1](https://forms.gle/e1SFjjG4xsgMx88s7){target="_blank"} | 01/08/2025 | 01/08/2025, 11:55pm |
+| Assignment 1 | [Handout: HW1-LOBSTRS](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241){target="_blank"} , [Repository: HW1-LOBSTRS](https://github.com/garberadamc/HW1-LOBSTRS-EDS241.git){target="_blank"} | 01/08/2025 | 01/22/2025, 11:55pm |
 | Reading - *Mastering 'Metrics*  | A&P: Chapter 2  | 01/08/2025 | 01/15/2025 |
-| Reading - Article  | Careful read: [Buntaine et al. (2024)](https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view)  | 01/08/2025 | (1) Read study carefully before the guest lecture! (2) Think of questions for Prof. Mark Buntaine |
+| Reading - Article  | Careful read: [Buntaine et al. (2024)](https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view){target="_blank"}  | 01/08/2025 | (1) Read study carefully before the guest lecture! (2) Think of questions for Prof. Mark Buntaine |
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
 
@@ -35,5 +35,5 @@ description: "Week 1: Monday January 8^th^, 2025"
 ::: {.center-text}
 [**Extra resources will be added here**]{.teal-text .body-text-m}
 
-[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} Extra Resources Folder](https://drive.google.com/drive/folders/19uQWHErCrD5sB7j1kUOW8fW6WphfSPJ3?usp=sharing){.btn role="button" target="_blank"} 
+[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} Extra Resources Folder](){.btn role="button" target="_blank"} 
 :::
