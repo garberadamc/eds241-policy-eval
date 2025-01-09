@@ -91,7 +91,7 @@ knitr::include_graphics("images/annie_picture.png")
 [**Annie Adams**]{.teal-text}\
 **Email:** [aradams\@ucsb.edu](mailto::aradams@ucsb.edu)\
 **Office hours (subject to change):**\
-Thursday 11 am - 12pm \@ BH 3418 
+Wednesday 12 - 1 pm \@ BH 3418 
 
 :::
 :::::
