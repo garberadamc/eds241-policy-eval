@@ -9,7 +9,7 @@ description: "Week 2: Wednesday January 15^th^, 2025"
 
 | Lecture slides | Lab |  Answer key |
 |----------------|------|------------|
-| [Lecture 2](){target="_blank"} | [Handout: Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast){target="_blank"} ,  [Lab1-repository](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *See repository* |
+| [Lecture 2](https://drive.google.com/file/d/1DpBNJflvGEBtA3gKllV7wTPu8kYFLjpb/view?usp=sharing){target="_blank"} | [Handout: Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast){target="_blank"} ,  [Lab1-repository](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *See repository* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
