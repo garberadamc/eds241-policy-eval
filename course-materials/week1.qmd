@@ -1,7 +1,7 @@
 ---
 title: "This week's topic(s): "
 subtitle: "Causal inference, Spiny Lobsters, & Waste Burning Intrervention!"
-description: "Week 1: Monday January 8^th^, 2025"
+description: "Week 1: Wednesday January 8^th^, 2025"
 ---
 
 ::: {.callout-tip}

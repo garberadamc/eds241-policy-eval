@@ -86,9 +86,9 @@
   {
     "objectID": "course-materials/week2.html",
     "href": "course-materials/week2.html",
-    "title": "This week’s topic(s)",
+    "title": "Week 2 topic(s):",
     "section": "",
-    "text": "Week 2 materials coming soon!"
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 2\nHandout: Generalize Fast! , Lab1-repository\nSee repository"
   },
   {
     "objectID": "course-materials/keys/key1.1.html",
@@ -166,5 +166,19 @@
     "title": "EDS 241 - Environmental Policy Evaluation",
     "section": "Meeting Time & Location",
     "text": "Meeting Time & Location\n\nTime\nWednesday, 9:30-10:45 am\n\n\n\nLocation\nBren Hall 1424"
+  },
+  {
+    "objectID": "course-materials/week2.html#lecture-materials",
+    "href": "course-materials/week2.html#lecture-materials",
+    "title": "Week 2 topic(s):",
+    "section": "",
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 2\nHandout: Generalize Fast! , Lab1-repository\nSee repository"
+  },
+  {
+    "objectID": "course-materials/week2.html#assignment-reminders",
+    "href": "course-materials/week2.html#assignment-reminders",
+    "title": "Week 2 topic(s):",
+    "section": " Assignment Reminders",
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week2\n01/15/2025\n01/15/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/22/2025, 11:55pm\n\n\nReading - Generalized Linear Models\nCarruthers et al., 2008\n01/15/2025\n01/22/2025"
   }
 ]
