@@ -1,7 +1,7 @@
 ---
 title: "Week 2 topic(s): "
 subtitle: "Generalized Linear Models & Causal inference"
-description: "Week 2: Wednesday January 15^th^, 2025"
+description: "Wednesday January 15^th^, 2025"
 ---
 
 
