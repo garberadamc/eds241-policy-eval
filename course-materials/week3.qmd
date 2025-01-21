@@ -1,0 +1,34 @@
+---
+title: "Week 3: "
+subtitle: "Guest Speaker: Professor Mark Buntaine - Experimental Design"
+description: "Week 3: Wednesday, January 22, 2025"
+---
+
+
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
+
+| Lecture slides | Lab | Answer key |
+|----------------|-----|------------|
+| [Lecture 3](){target="_blank"} | *NA* | *NA* |
+
+: {.hover .bordered tbl-colwidths="[50,25,25]"} 
+
+
+## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
+
+| Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
+|-----------------|-----------------------------------------------|----------------|----------------------------|
+| End of Class Survey | [EOC-Week3](){target="_blank"} | 01/22/2025 | 01/22/2025, 11:55pm |
+| Assignment 1 | [Handout: HW1-LOBSTRS](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241){target="_blank"} , [Repository: HW1-LOBSTRS](https://github.com/garberadamc/HW1-LOBSTRS-EDS241.git){target="_blank"} | 01/08/2025 | 01/26/2025, 11:59pm |
+| Reading - *Mastering 'Metrics*  | A&P: Chapter 5  | 01/22/2025 | 01/26/2025 |
+| Reading - Article: Natural Experiments | [Larsen et al., 2019](https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view?usp=drive_link){target="_blank"} | 01/22/2025 | 01/26/2025 |
+
+: {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
+
+::: {.callout-tip}
+# Assignment Submission and Rubric
+
+- **Submission:** Submit assignments through `GradeScope`
+- **Question-specific guide:** Each question has detailed grading criteria available on `GradeScope`. Be sure to review these guidelines before submitting your work!
+- **General rubric outline:** For an overview of the grading criteria, refer to the [assignment rubric - general outline](https://docs.google.com/document/d/1JovgsTOiPCeUy5eehs9a4nPx5VoLlILV-1m_LBarmQU/edit?usp=sharing)
+:::
