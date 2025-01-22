@@ -8,7 +8,7 @@ website:
     dismissable: false
     type: primary
     position: above-navbar
-    content: "This website is currently under development! (updated; 12.9.2024)"
+    content: "This website is currently under development! (updated; 01.21.2025)"
   title: "EDS 241"
   favicon: images/bren-hex.png
   navbar:
@@ -26,12 +26,12 @@ website:
             href: course-materials/week2.qmd
           - text: week 3 (22/01/25)
             href: course-materials/week3.qmd
-          - text: week 4 (29/01/25)
-            href: course-materials/week4.qmd          
-          - text: week 5 (05/02/25)
-            href: course-materials/week5.qmd
-          - text: week 6 (12/02/25)
-            href: course-materials/week6.qmd            
+          # - text: week 4 (29/01/25)
+          #   href: course-materials/week4.qmd          
+          # - text: week 5 (05/02/25)
+          #   href: course-materials/week5.qmd
+          # - text: week 6 (12/02/25)
+          #   href: course-materials/week6.qmd            
            
       - text: assignments
         href: assignments.qmd
