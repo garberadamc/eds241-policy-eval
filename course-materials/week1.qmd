@@ -40,7 +40,7 @@ description: "Wednesday January 8^th^, 2025"
 
 
 ::: {.center-text}
-[**Extra resources will be added here**]{.teal-text .body-text-m}
+[**Extra resources**]{.teal-text .body-text-m}
 
 [{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} Extra Resources Folder](){.btn role="button" target="_blank"} 
 :::

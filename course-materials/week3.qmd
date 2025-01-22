@@ -25,6 +25,15 @@ description: "Week 3: Wednesday, January 22, 2025"
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
 
+::: {.center-text}
+
+
+## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
+
+- [Video - Interpreting regression coefficients & interactions - Assignment 1](https://drive.google.com/file/d/1ZYYDIodWKhrjzroVFGoBzN58LV5YT_Ol/view?usp=sharing)
+
+:::
+
 ::: {.callout-tip}
 # Assignment Submission and Rubric
 

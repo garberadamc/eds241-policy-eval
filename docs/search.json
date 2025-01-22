@@ -74,7 +74,7 @@
     "href": "course-materials/week1.html#discussion-materials",
     "title": "Week 1 topic(s):",
     "section": " Extra Resources",
-    "text": "Extra Resources\n\nExtra resources will be added here\n Extra Resources Folder"
+    "text": "Extra Resources\n\nExtra resources\n Extra Resources Folder"
   },
   {
     "objectID": "course-materials/week1.html#assignment-reminders",
@@ -200,6 +200,13 @@
     "href": "course-materials/week3.html#assignment-reminders",
     "title": "Week 3:",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week3\n01/22/2025\n01/22/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 5\n01/22/2025\n01/26/2025\n\n\nReading - Article: Natural Experiments\nLarsen et al., 2019\n01/22/2025\n01/26/2025\n\n\n\n\n\n\n\n\n\nAssignment Submission and Rubric\n\n\n\n\nSubmission: Submit assignments through GradeScope\nQuestion-specific guide: Each question has detailed grading criteria available on GradeScope. Be sure to review these guidelines before submitting your work!\nGeneral rubric outline: For an overview of the grading criteria, refer to the assignment rubric - general outline"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week3\n01/22/2025\n01/22/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 5\n01/22/2025\n01/26/2025\n\n\nReading - Article: Natural Experiments\nLarsen et al., 2019\n01/22/2025\n01/26/2025"
+  },
+  {
+    "objectID": "course-materials/week3.html#extra-resources",
+    "href": "course-materials/week3.html#extra-resources",
+    "title": "Week 3:",
+    "section": " Extra resources",
+    "text": "Extra resources\n\nVideo - Interpreting regression coefficients & interactions - Assignment 1"
   }
 ]
