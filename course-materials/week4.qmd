@@ -1,0 +1,31 @@
+---
+title: "Week 4: "
+subtitle: "Difference-in-Difference, Panel Data, & Fixed Effects"
+description: "Wednesday, January 29, 2025"
+---
+
+
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
+
+| Lecture slides | Lab | Answer key |
+|----------------|-----|------------|
+| [](){target="_blank"} | [](){target="_blank"}| *NA* |
+
+: {.hover .bordered tbl-colwidths="[50,25,25]"} 
+
+
+## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
+
+| Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
+|-----------------|-----------------------------------------------|----------------|----------------------------|
+| End of Class Survey | [EOC-Week4](){target="_blank"} | 01/29/2025 | 01/29/2025, 11:55pm |
+| Reading - *Mastering 'Metrics*  | A&P: Chapter 4  | 01/29/2025 |  |
+| Reading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study | [Moland et al., 2013](https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view?usp=sharing){target="_blank"} | 01/29/2025 |  |
+
+: {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
+
+::: {.center-text}
+
+
+## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
+

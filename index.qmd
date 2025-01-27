@@ -62,8 +62,8 @@ knitr::include_graphics("images/headshot-241.png")
 [**Adam Garber**]{.teal-text}\
 **Email:** [agarber\@ucsb.edu](mailto::agarber@ucsb.edu)\
 **Office hours (subject to change):**\
-Monday 9-11 am \@ BH 3526 (Pine Room)\
-Thursday 3-5 pm \@ BH 3526 (Pine Room)\
+Monday 9-11 am \@ BH 3418 (office)\
+Thursday 3-4pm (~~3-5 pm~~) \@ BH 3418 (office)\
 **Alternate instructor availability:**\
 Tuesday 3-4 pm \@ BH 3418 (by appointment)\
 Wednesday (after class)\
