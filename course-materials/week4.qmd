@@ -9,7 +9,7 @@ description: "Wednesday, January 29, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [](){target="_blank"} | [](){target="_blank"}| *NA* |
+| [Lecture 4 - DiD](https://drive.google.com/file/d/1k5XwhonfxvDBKOqHp4KqVp30oG9Bshgg/view?usp=sharing){target="_blank"} | [Lab 2 - Repo](https://github.com/garberadamc/Lab2-EDS241-Moland13){target="_blank"}| *NA* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
@@ -18,7 +18,7 @@ description: "Wednesday, January 29, 2025"
 
 | Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
 |-----------------|-----------------------------------------------|----------------|----------------------------|
-| End of Class Survey | [EOC-Week4](){target="_blank"} | 01/29/2025 | 01/29/2025, 11:55pm |
+| End of Class Survey | [EOC-Week4](https://forms.gle/qmx7PMQwZC1R6kAU6){target="_blank"} | 01/29/2025 | 01/29/2025, 11:55pm |
 | Reading - *Mastering 'Metrics*  | A&P: Chapter 4  | 01/29/2025 |  |
 | Reading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study | [Moland et al., 2013](https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view?usp=sharing){target="_blank"} | 01/29/2025 |  |
 
