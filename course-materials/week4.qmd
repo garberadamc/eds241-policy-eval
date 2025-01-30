@@ -9,7 +9,7 @@ description: "Wednesday, January 29, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [Lecture 4 - DiD](https://drive.google.com/file/d/1k5XwhonfxvDBKOqHp4KqVp30oG9Bshgg/view?usp=sharing){target="_blank"} | [Lab 2 - Repo](https://github.com/garberadamc/Lab2-EDS241-Moland13){target="_blank"}| *NA* |
+| [Lecture 4 - DiD](https://drive.google.com/file/d/1k5XwhonfxvDBKOqHp4KqVp30oG9Bshgg/view?usp=sharing){target="_blank"} | [Lab 2 - Repo](https://github.com/garberadamc/Lab2-EDS241-Moland13){target="_blank"}| [Lab Key - Handout](https://garberadamc.github.io/project-site/Lab2-Moland13_KEY){target="_blank"} |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
