@@ -19,7 +19,7 @@ description: "Wednesday, January 29, 2025"
 | Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
 |-----------------|-----------------------------------------------|----------------|----------------------------|
 | End of Class Survey | [EOC-Week4](https://forms.gle/qmx7PMQwZC1R6kAU6){target="_blank"} | 01/29/2025 | 01/29/2025, 11:55pm |
-| Reading - *Mastering 'Metrics*  | A&P: Chapter 4  | 01/29/2025 |  |
+| Reading - *Mastering 'Metrics*  | A&P: Chapter 4 - Regression Discontinuity | 01/29/2025 |  |
 | Reading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study | [Moland et al., 2013](https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view?usp=sharing){target="_blank"} | 01/29/2025 |  |
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 

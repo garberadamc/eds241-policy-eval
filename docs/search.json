@@ -200,7 +200,7 @@
     "href": "course-materials/week3.html#assignment-reminders",
     "title": "Week 3:",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week3\n01/22/2025\n01/22/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 5\n01/22/2025\n01/26/2025\n\n\nReading - Article: Natural Experiments\nLarsen et al., 2019\n01/22/2025\n01/26/2025"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week3\n01/22/2025\n01/22/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 5 - Difference-in-Difference\n01/22/2025\n01/26/2025\n\n\nReading - Article: Natural Experiments\nLarsen et al., 2019\n01/22/2025\n01/26/2025"
   },
   {
     "objectID": "course-materials/week3.html#extra-resources",
@@ -228,7 +228,7 @@
     "href": "course-materials/week4.html#assignment-reminders",
     "title": "Week 4:",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week4\n01/29/2025\n01/29/2025, 11:55pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 4\n01/29/2025\n\n\n\nReading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study\nMoland et al., 2013\n01/29/2025"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week4\n01/29/2025\n01/29/2025, 11:55pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 4 - Regression Discontinuity\n01/29/2025\n\n\n\nReading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study\nMoland et al., 2013\n01/29/2025"
   },
   {
     "objectID": "course-materials/week4.html#extra-resources",
@@ -236,5 +236,33 @@
     "title": "Week 4:",
     "section": " Extra resources",
     "text": "Extra resources"
+  },
+  {
+    "objectID": "course-materials/week5.html",
+    "href": "course-materials/week5.html",
+    "title": "Week 5:",
+    "section": "",
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 5\nNA\nNA"
+  },
+  {
+    "objectID": "course-materials/week5.html#lecture-materials",
+    "href": "course-materials/week5.html#lecture-materials",
+    "title": "Week 5:",
+    "section": "",
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 5\nNA\nNA"
+  },
+  {
+    "objectID": "course-materials/week5.html#assignment-reminders",
+    "href": "course-materials/week5.html#assignment-reminders",
+    "title": "Week 5:",
+    "section": " Assignment Reminders",
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week5\n02/05/2025\n02/05/2025, 11:55pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 3 - Instrumental Variables\n02/05/2025\n02/05/2025"
+  },
+  {
+    "objectID": "course-materials/week5.html#extra-resources",
+    "href": "course-materials/week5.html#extra-resources",
+    "title": "Week 5:",
+    "section": " Extra resources",
+    "text": "Extra resources\nReproducibility article - Lowndes et al., 2017 - Our path to better science in less time using open data science tools"
   }
 ]

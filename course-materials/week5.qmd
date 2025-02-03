@@ -1,0 +1,34 @@
+---
+title: "Week 5: "
+subtitle: "Difference-in-Difference, Fixed Effects, & Matching Methods"
+description: "Wednesday, February 5th, 2025"
+---
+
+
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
+
+| Lecture slides | Lab | Answer key |
+|----------------|-----|------------|
+| [Lecture 5](){target="_blank"} | *NA* | *NA* |
+
+: {.hover .bordered tbl-colwidths="[50,25,25]"} 
+
+
+## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
+
+| Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
+|-----------------|-----------------------------------------------|----------------|----------------------------|
+| End of Class Survey | [EOC-Week5](){target="_blank"} | 02/05/2025 | 02/05/2025, 11:55pm |
+| Reading - *Mastering 'Metrics*  | A&P: Chapter 3 - Instrumental Variables | 02/05/2025 | 02/05/2025 |
+
+
+: {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
+
+::: {.center-text}
+
+
+## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
+
+[Reproducibility article - Lowndes et al., 2017 - *Our path to better science in less time using open
+data science tools*](https://drive.google.com/file/d/1gEqGjKmrlt96k0a-JURtbIHnc_VIUiyK/view?usp=drive_link)
+

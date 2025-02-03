@@ -20,7 +20,7 @@ description: "Week 3: Wednesday, January 22, 2025"
 |-----------------|-----------------------------------------------|----------------|----------------------------|
 | End of Class Survey | [EOC-Week3](https://forms.gle/iSmTnJEE2iTk8QCL8){target="_blank"} | 01/22/2025 | 01/22/2025, 11:55pm |
 | Assignment 1 | [Handout: HW1-LOBSTRS](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241){target="_blank"} , [Repository: HW1-LOBSTRS](https://github.com/garberadamc/HW1-LOBSTRS-EDS241.git){target="_blank"} | 01/08/2025 | 01/26/2025, 11:59pm |
-| Reading - *Mastering 'Metrics*  | A&P: Chapter 5  | 01/22/2025 | 01/26/2025 |
+| Reading - *Mastering 'Metrics*  | A&P: Chapter 5 - Difference-in-Difference | 01/22/2025 | 01/26/2025 |
 | Reading - Article: Natural Experiments | [Larsen et al., 2019](https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view?usp=drive_link){target="_blank"} | 01/22/2025 | 01/26/2025 |
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
