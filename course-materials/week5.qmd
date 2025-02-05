@@ -9,7 +9,7 @@ description: "Wednesday, February 5th, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [Lecture 5](){target="_blank"} | *NA* | *NA* |
+| [Lecture 5](https://drive.google.com/file/d/1vgmrn4C25WNNQrp6VRvy5qCJWh5LgMLK/view?usp=sharing){target="_blank"} | *NA* | *NA* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
@@ -18,8 +18,9 @@ description: "Wednesday, February 5th, 2025"
 
 | Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
 |-----------------|-----------------------------------------------|----------------|----------------------------|
-| End of Class Survey | [EOC-Week5](){target="_blank"} | 02/05/2025 | 02/05/2025, 11:55pm |
+| End of Class Survey | *EOC Will be added after class* [](){target="_blank"} | 02/05/2025 | 02/05/2025, 11:55pm |
 | Reading - *Mastering 'Metrics*  | A&P: Chapter 3 - Instrumental Variables | 02/05/2025 | 02/05/2025 |
+| Reading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study | [Moland et al., 2013](https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view?usp=sharing){target="_blank"} | 01/29/2025 |  |
 
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
