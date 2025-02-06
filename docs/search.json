@@ -263,6 +263,6 @@
     "href": "course-materials/week5.html#extra-resources",
     "title": "Week 5:",
     "section": " Extra resources",
-    "text": "Extra resources\n\nCreate {gganimate} plot - Illustration of concept unbiased estimator Repository\n\n\nExtra credit: Create an animated plot that illustrates a concept relevant to EDS 241 (i.e, causal inference, statistics, design-based methods). Take a look at the examples made by Kristoffer Magnusson for inspiration!\n\n\nCool stats visualizations: ‘R &lt;- Psychologist’ by Kristoffer Magnusson\nReproducibility - Lowndes et al., 2017 - Our path to better science in less time using open data science tools"
+    "text": "Extra resources\n\nCreate {gganimate} plot - Illustration of concept unbiased estimator:\n\n\nRepo - unbiased-estimator-viz\n\nExtra credit: Create an animated plot that illustrates a concept relevant to EDS 241 (i.e, causal inference, statistics, design-based methods). Take a look at the examples made by Kristoffer Magnusson for inspiration!\n\n\nCool stats visualizations: ‘R Psychologist’ - Kristoffer Magnusson\nReproducibility: Lowndes et al., 2017 - Our path to better science in less time using open data science tools"
   }
 ]
