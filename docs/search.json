@@ -256,12 +256,40 @@
     "href": "course-materials/week5.html#assignment-reminders",
     "title": "Week 5:",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week5\n02/05/2025\n02/05/2025, 11:55pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 3 - Instrumental Variables\n02/05/2025\n02/05/2025\n\n\nReading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study\nMoland et al., 2013\n01/29/2025"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week5\n02/05/2025\n02/05/2025, 11:55pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 3 - Instrumental Variables\n02/05/2025\n02/05/2025\n\n\nReading - European Lobster MPA Study\nMoland et al., 2013\n01/29/2025\n\n\n\nRevise & Resubmit (Assignment 1)\nInstructions to Revise & Resubmit\n02/05/2025\n02/10/2025 (11:59pm)"
   },
   {
     "objectID": "course-materials/week5.html#extra-resources",
     "href": "course-materials/week5.html#extra-resources",
     "title": "Week 5:",
+    "section": " Extra resources",
+    "text": "Extra resources\n\nCreate {gganimate} plot - Illustration of concept unbiased estimator:\n\n\nRepo - unbiased-estimator-viz\n\nExtra credit: Create an animated plot that illustrates a concept relevant to EDS 241 (i.e, causal inference, statistics, design-based methods). Take a look at the examples made by Kristoffer Magnusson for inspiration!\n\n\nCool stats visualizations: ‘R Psychologist’ - Kristoffer Magnusson\nReproducibility: Lowndes et al., 2017 - Our path to better science in less time using open data science tools"
+  },
+  {
+    "objectID": "course-materials/week6.html",
+    "href": "course-materials/week6.html",
+    "title": "Week 6:",
+    "section": "",
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 6\nNA\nNA"
+  },
+  {
+    "objectID": "course-materials/week6.html#lecture-materials",
+    "href": "course-materials/week6.html#lecture-materials",
+    "title": "Week 6:",
+    "section": "",
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 6\nNA\nNA"
+  },
+  {
+    "objectID": "course-materials/week6.html#assignment-reminders",
+    "href": "course-materials/week6.html#assignment-reminders",
+    "title": "Week 6:",
+    "section": " Assignment Reminders",
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week6\n02/12/2025\n02/12/2025, 11:55pm\n\n\nAssignment 2\nInvestigating Causal Inference Designs Applied in Environmental Science\n02/10/2025\n02/23/2025, 11:59pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 6\n02/12/2025\n02/16/2025\n\n\nReading - Article\nStokes, 2015 - Electoral Backlash Against Climate Policy\n01/29/2025"
+  },
+  {
+    "objectID": "course-materials/week6.html#extra-resources",
+    "href": "course-materials/week6.html#extra-resources",
+    "title": "Week 6:",
     "section": " Extra resources",
     "text": "Extra resources\n\nCreate {gganimate} plot - Illustration of concept unbiased estimator:\n\n\nRepo - unbiased-estimator-viz\n\nExtra credit: Create an animated plot that illustrates a concept relevant to EDS 241 (i.e, causal inference, statistics, design-based methods). Take a look at the examples made by Kristoffer Magnusson for inspiration!\n\n\nCool stats visualizations: ‘R Psychologist’ - Kristoffer Magnusson\nReproducibility: Lowndes et al., 2017 - Our path to better science in less time using open data science tools"
   }

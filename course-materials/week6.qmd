@@ -1,7 +1,7 @@
 ---
-title: "Week 5: "
-subtitle: "Difference-in-Difference, Panel Data, & Fixed Effects"
-description: "Wednesday, February 5th, 2025"
+title: "Week 6: "
+subtitle: "Regression Discontinuity & Instrumnetal Variable Designs"
+description: "Wednesday, February 12th, 2025"
 ---
 
 
@@ -9,7 +9,7 @@ description: "Wednesday, February 5th, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [Lecture 5](https://drive.google.com/file/d/1vgmrn4C25WNNQrp6VRvy5qCJWh5LgMLK/view?usp=sharing){target="_blank"} | *NA* | *NA* |
+| [Lecture 6](){target="_blank"} | *NA* | *NA* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
@@ -18,10 +18,10 @@ description: "Wednesday, February 5th, 2025"
 
 | Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
 |-----------------|-----------------------------------------------|----------------|----------------------------|
-| End of Class Survey | [EOC-Week5](https://docs.google.com/forms/d/e/1FAIpQLSfHwZ6rxctARaYdPJBguBVeYdIPqzhSaRUmQv6jHKY7LUY5TA/viewform?usp=sharing){target="_blank"} | 02/05/2025 | 02/05/2025, 11:55pm |
-| Reading - *Mastering 'Metrics*  | A&P: Chapter 3 - Instrumental Variables | 02/05/2025 | 02/05/2025 |
-| Reading - European Lobster MPA Study | [Moland et al., 2013](https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view?usp=sharing){target="_blank"} | 01/29/2025 |  |
-|Revise & Resubmit (Assignment 1) | [Instructions to Revise & Resubmit](){target="_blank"} | 02/05/2025 | 02/10/2025 (11:59pm)|
+| End of Class Survey | [EOC-Week6](https://forms.gle/DTYnboMM5T75NnEH9){target="_blank"} | 02/12/2025 | 02/12/2025, 11:55pm |
+| Assignment 2 | [Investigating Causal Inference Designs Applied in Environmental Science](https://docs.google.com/document/d/1c3RtddoEN-nXRerAWp4IgBvtw5zZyuBeezjmM3VM-QY/edit?usp=sharing){target="_blank"} | 02/10/2025 | 02/23/2025, 11:59pm |
+| Reading - *Mastering 'Metrics*  | A&P: Chapter 6     | 02/12/2025 | 02/16/2025 |
+| Reading - Article | [Stokes, 2015 - Electoral Backlash Against Climate Policy](https://drive.google.com/file/d/1y2Okzjq2EA43AW5JzCvFS8ecLpeP6NKh/view?usp=drive_link){target="_blank"} | 01/29/2025 | 
 
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
