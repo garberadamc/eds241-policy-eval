@@ -31,14 +31,4 @@ description: "Wednesday, February 12th, 2025"
 
 ## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
 
-- Create {`gganimate`} plot - Illustration of concept *unbiased estimator*: \
-
-[Repo - unbiased-estimator-viz](https://github.com/garberadamc/unbiased-estimator-viz.git)
-
-> Extra credit: Create an animated plot that illustrates a concept relevant to EDS 241 (i.e, causal inference, statistics, design-based methods). Take a look at the examples made by Kristoffer Magnusson for inspiration!
-
-- **Cool stats visualizations:** ['R Psychologist' - Kristoffer Magnusson](https://rpsychologist.com/viz/)
-
-- **Reproducibility:** [Lowndes et al., 2017 - *Our path to better science in less time using open
-data science tools*](https://drive.google.com/file/d/1gEqGjKmrlt96k0a-JURtbIHnc_VIUiyK/view?usp=drive_link)
 
