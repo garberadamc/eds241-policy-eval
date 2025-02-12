@@ -9,7 +9,7 @@ description: "Wednesday, February 12th, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [Lecture 6](){target="_blank"} | *NA* | *NA* |
+| [Lecture 6](https://drive.google.com/file/d/150rJaV6XuOaZnEn-4_zAF26agLrb3Cb0/view?usp=sharing){target="_blank"} | *NA* | *NA* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
