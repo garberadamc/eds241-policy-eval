@@ -26,9 +26,10 @@ description: "Wednesday, February 12th, 2025"
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
 
-::: {.center-text}
-
 
 ## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
+
+- `Optional RDD Lab Handout` - [Estimating Regression Discontinuity (RDD)](https://garberadamc.github.io/eds241-policy-eval/RDD-SIM)
+-  `Optional RDD Lab Handout` - [Repository](https://github.com/garberadamc/RDD-SIM)
 
 

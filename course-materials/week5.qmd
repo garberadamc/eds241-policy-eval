@@ -26,8 +26,6 @@ description: "Wednesday, February 5th, 2025"
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
 
-::: {.center-text}
-
 
 ## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
 
