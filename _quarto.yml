@@ -33,7 +33,9 @@ website:
           - text: week 6 (12/02/25)
             href: course-materials/week6.qmd        
           - text: week 7 (19/02/25)
-            href: course-materials/week7.qmd      
+            href: course-materials/week7.qmd
+          - text: week 8 (26/02/25)
+            href: course-materials/week8.qmd    
       - text: assignments
         href: assignments.qmd
       - text: resources

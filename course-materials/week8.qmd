@@ -1,0 +1,30 @@
+---
+title: "Week 8: "
+subtitle: "Matching & Instrumental Variable Estimation"
+description: "Wednesday, February 26th, 2025"
+---
+
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
+
+| Lecture slides | Lab | Answer key |
+|----------------|-----|------------|
+| [Repository - W8-Lab-EDS241](https://github.com/garberadamc/W8-Lab-EDS241.git){target="_blank"} |  |  |
+
+: {.hover .bordered tbl-colwidths="[50,25,25]"} 
+
+
+## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
+
+| Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
+|-----------------|-----------------------------------------------|----------------|----------------------------|
+| End of Class Survey | [EOC-Week8](https://forms.gle/d9uWvoW2P4wpxbWM7){target="_blank"} | 02/26/2025 | 02/26/2025, 11:55pm |
+| Reading - Article | [Statistical matching for conservation science - Schleicher et al., 2019 - ](https://drive.google.com/file/d/1WHszJRSS4ntpq2cYi4SoWYfaFu6bYPja/view?usp=sharing){target="_blank"} | 02/16/2025 | 
+| Review chapter - *Mastering Metrics*  | Chapter 3 - Instrumental Variables | 02/26/2025 |  |
+
+: {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
+
+
+## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
+
+
+
