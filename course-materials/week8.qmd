@@ -8,7 +8,7 @@ description: "Wednesday, February 26th, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [Repository - W8-Lab-EDS241](https://github.com/garberadamc/W8-Lab-EDS241.git){target="_blank"} |  |  |
+| [Repository - W8-Lab-EDS241](https://github.com/garberadamc/W8-Lab-EDS241.git){target="_blank"} | [Lab-Handout](https://garberadamc.github.io/eds241-policy-eval/W8-Lab) | *RMD Updated!* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
