@@ -1,6 +1,6 @@
 ---
 title: "Week 6: "
-subtitle: "Regression Discontinuity & Instrumnetal Variable Designs"
+subtitle: "Regression Discontinuity & Instrumental Variable Designs"
 description: "Wednesday, February 12th, 2025"
 ---
 
