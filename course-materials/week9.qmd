@@ -1,0 +1,29 @@
+---
+title: "Week 9: "
+subtitle: "Estimating Regression Discontinuity & Fixed Effects Models"
+description: "Wednesday, March 5th, 2025"
+---
+
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
+
+| Lecture slides | Lab | Answer key |
+|----------------|-----|------------|
+| [Repository - W9-Lab-EDS241](https://github.com/garberadamc/W9-Lab-EDS241.git){target="_blank"} | [RDD Lab Handout](https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest){target="_blank"} [Fixed Effects Lab Handout](https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15){target="_blank"} | |
+
+: {.hover .bordered tbl-colwidths="[50,25,25]"} 
+
+
+## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
+
+| Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
+|-----------------|-----------------------------------------------|----------------|----------------------------|
+| End of Class Survey | *Will be added after class* | 03/05/2025 | 03/05/2025, 11:55pm |
+| Reading - Article | [Neal, 2024 - Estimating the Effectiveness of Forest Protection Using Regression Discontinuity](https://drive.google.com/file/d/1ktj5u8x8TOEtPtYvjjRKnOlr-kcDy-2d/view?usp=drive_link){target="_blank"} | 03/05/2025 | 
+
+: {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
+
+
+## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
+
+
+
