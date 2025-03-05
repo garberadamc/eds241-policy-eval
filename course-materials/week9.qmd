@@ -17,7 +17,7 @@ description: "Wednesday, March 5th, 2025"
 
 | Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
 |-----------------|-----------------------------------------------|----------------|----------------------------|
-| End of Class Survey | *Will be added after class* | 03/05/2025 | 03/05/2025, 11:55pm |
+| End of Class Survey | [EOC-Week9](https://forms.gle/sEcaSwu18j7gQWTD6){target="_blank"} | 03/05/2025 | 03/05/2025, 11:55pm |
 | Reading - Article | [Neal, 2024 - Estimating the Effectiveness of Forest Protection Using Regression Discontinuity](https://drive.google.com/file/d/1ktj5u8x8TOEtPtYvjjRKnOlr-kcDy-2d/view?usp=drive_link){target="_blank"} | 03/05/2025 | 
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
