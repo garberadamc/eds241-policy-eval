@@ -1,0 +1,29 @@
+---
+title: "Week 10: "
+subtitle: "Review"
+description: "Wednesday, March 12th, 2025"
+---
+
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
+
+| Lecture slides | Lab | Answer key |
+|----------------|-----|------------|
+| [Week 10 Slides (*Updated after class*)](https://drive.google.com/file/d/12RI9Ap6VdiIDhAanQTZ3WEGcoahU1f69/view?usp=sharing){target="_blank"} | | |
+
+: {.hover .bordered tbl-colwidths="[50,25,25]"} 
+
+
+## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
+
+| Assignment Type | Assignment Title                              | Date Assigned  | Date Due                   |
+|-----------------|-----------------------------------------------|----------------|----------------------------|
+| | **Reminder: Please fill out the EDS 241 course evaluations.** \ *No EOC survey this week!* | 03/12/2025 | 03/12/2025, 11:55pm |
+| Reading - Article | [Gertler, 2004 - High Impact Randomized Experiment - PROGRESA Intervention](https://drive.google.com/file/d/1b2hWWIb5ri_WJENONNlcpDlBiCMY7oCW/view?usp=drive_link){target="_blank"} | 03/12/2025 | |
+
+: {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
+
+
+## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
+
+
+

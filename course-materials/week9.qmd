@@ -8,7 +8,8 @@ description: "Wednesday, March 5th, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [Repository - W9-Lab-EDS241](https://github.com/garberadamc/W9-Lab-EDS241.git){target="_blank"} | [RDD Lab Handout](https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest){target="_blank"} [Fixed Effects Lab Handout](https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15){target="_blank"} | |
+| [Repository - W9-Lab-EDS241](https://github.com/garberadamc/W9-Lab-EDS241.git){target="_blank"} | [RDD Lab Handout](https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest){target="_blank"}  
+| | [Fixed Effects Lab Handout](https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15){target="_blank"} | 
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
