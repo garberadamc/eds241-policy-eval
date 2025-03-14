@@ -1,16 +1,36 @@
  ---
 title: "Assignments"
-subtitle: "assignment links will become available in the tables below on the dates that they are assigned"
+subtitle: ""
 toc: true
 ---
 
 ::: {.callout-important}
-## Important: 11:59 PM submission deadline
-All assignments are due at 11:59 PM on the dates listed in the table, below. 
+## Important: Email group presentation slides to instructor (Adam) before 7am (3/19)
+Presentation slides must be emailed to your instructor (Adam) before 7am (3/19). Acceptable submission formats include `google slides` or a shared link of slide-deck in `pdf` format (i.e., *a google drive link*).
 :::
  
-| Assignment Title                                               | Date Assigned  | Date Due  |
-|----------------------------------------------------------------|----------------|-----------|
-| [Homework Assignment #1](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241) |  01/22/2025      |  01/26/2025 |
-| Homework Assignment #2                                         | DD/MM/YYY      | DD/MM/YYY |
+## Final project links: 
+
+- [Final Project Instructions](https://docs.google.com/document/d/1pW-QzEenwRTEu8meupA_ELVcAmOtDSTq11QFCaO1eVY/edit?usp=sharing) 
+- [Study Group Assignments](https://docs.google.com/spreadsheets/d/16rPEUDtxgMFQNmf1PkByN9XN1T9oZv00_2_LPFyYLtU/edit?usp=sharing)
+- [Final Presentation Grading Rubric](https://docs.google.com/document/d/1R8BPlZ6RZWwygTcijZ5ENhktGFPYdlRGDqkIuVo2hDQ/edit?usp=sharing)
+- [Presentation Question Form](https://docs.google.com/document/d/1f1x97nH2liGQhDDN4JBBuFCFXLOGRGRIjTeNMdJuFW8/edit?usp=sharing)
   
+  
+## Presentation day schedule (8-11am, Wednesday 3/19):
+
+::: {.callout-important}
+## Presentations will start at 8am sharp (please do not be late)
+Presentation order will follow the numerical order of your assigned group study.
+:::
+
+1. First 4 presentations (~60 minutes)
+2. Short break (~5-10 minutes)
+3. Next 3 presentations (~45 minutes)
+4. Short break (~5-10 minutes)
+5. Final 3 presentations (~45 minutes)
+
+🍿 **Snacks are encouraged!**  Bring food for sustenance/survival or to share with the class!  (*totally optional*)
+
+
+

@@ -4,7 +4,7 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "Important: 11:59 PM submission deadline\n\n\n\nAll assignments are due at 11:59 PM on the dates listed in the table, below.\n\n\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nHomework Assignment #1\n01/22/2025\n01/26/2025\n\n\nHomework Assignment #2\nDD/MM/YYY\nDD/MM/YYY"
+    "text": "Important: Email group presentation slides to instructor (Adam) before 7am (3/19)\n\n\n\nPresentation slides must be emailed to your instructor (Adam) before 7am (3/19). Acceptable submission formats include google slides or a shared link of slide-deck in pdf format (i.e., a google drive link)."
   },
   {
     "objectID": "index.html#course-description",
@@ -149,9 +149,9 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Recommended reading & materials",
+    "title": "Recommended reading & extra resources",
     "section": "",
-    "text": "Resources to be added here soon!"
+    "text": "This is a collection of all studies, books, or R packages referenced in EDS 241 organized by topic!\n\nGeneral topics - data science\nReproducibility\n\nLowndes et al., 2017 - Our path to better science in less time using open data science tools\nGehlman & Loken, 2013 - The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking”\n\nData viz\n\nAnimated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson\n\n\n\n\n\n\n\nLarsen, Meng, & Kendall 2018 - Causal analysis in control–impact ecological studies with observational data\n\n\n\nGeneralized Linear Models (GLMs)\n\nCarruthers et al., 2008 - Generalized linear models: model selection, diagnostics, and overdispersion\n\n\n\nCausal inference research conducted at Bren & UCSB\n\nSarah Anderson - Monitoring → Compliance\nMark Buntaine - Citizen participation → Env. Policy\nJoan Dudney - Climate change → Infectious tree disease\nLeah Stokes - Voting → Climate policy\nOlivier Deschenes - Climate change → Agricultural output\nMatto Mildenberger - Wildfires → Voting\nKyle Meng - Marine Reserves, Inequality, Ground water rights\n\n\n\nRandomized experiments\n\nEDS 241 - Glossary of Econometrics and Statistics Terms\nBuntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda\nJ-PAL power calculation tool\nEGAP power calculation tool\n\n\n\nLab & assignment handouts\n\nLab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024\nAssignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)\nLab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)\nExtra lab - Illustration of ‘unbiased estimator’ concept using {gganimate} | View GIF\n\n\n\nDifference-in-difference estimator (DiD)\n\nMoland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study"
   },
   {
     "objectID": "index.html",
@@ -404,5 +404,19 @@
     "title": "Week 10:",
     "section": " Extra resources",
     "text": "Extra resources"
+  },
+  {
+    "objectID": "assignments.html#final-project-links",
+    "href": "assignments.html#final-project-links",
+    "title": "Assignments",
+    "section": "Final project links:",
+    "text": "Final project links:\n\nFinal Project Instructions\nStudy Group Assignments\nFinal Presentation Grading Rubric\nPresentation Question Form"
+  },
+  {
+    "objectID": "assignments.html#presentation-day-schedule-8-11am-wednesday-319",
+    "href": "assignments.html#presentation-day-schedule-8-11am-wednesday-319",
+    "title": "Assignments",
+    "section": "Presentation day schedule (8-11am, Wednesday 3/19):",
+    "text": "Presentation day schedule (8-11am, Wednesday 3/19):\n\n\n\n\n\n\nPresentations will start at 8am sharp (please do not be late)\n\n\n\nPresentation order will follow the numerical order of your assigned group study.\n\n\n\nFirst 4 presentations (~60 minutes)\nShort break (~5-10 minutes)\nNext 3 presentations (~45 minutes)\nShort break (~5-10 minutes)\nFinal 3 presentations (~45 minutes)\n\n🍿 Snacks are encouraged! Bring food for sustenance/survival or to share with the class! (totally optional)"
   }
 ]

@@ -1,6 +1,117 @@
 ---
-title: "Recommended reading & materials"
+title: "Recommended reading & `extra` resources"
 toc: true
 ---
 
-Resources to be added here `soon`!
+This is a collection of all studies, books, or R packages referenced in EDS 241 organized by topic!
+
+### General topics - data science
+
+**Reproducibility**
+
+- [Lowndes et al., 2017 - Our path to better science in less time using open data science tools](https://drive.google.com/file/d/1gEqGjKmrlt96k0a-JURtbIHnc_VIUiyK/view)
+- [Gehlman & Loken, 2013 - The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking”](https://drive.google.com/file/d/1Cx2fqgKDTzMQjXtyo4Cz2YK4dQQzpb4Z/view?usp=drive_link)
+
+**Data viz**
+
+- [Animated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson](https://rpsychologist.com/viz/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+- [Larsen, Meng, & Kendall 2018 - Causal analysis in control–impact ecological studies with observational data](https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view)
+
+### Generalized Linear Models (GLMs)
+
+- [Carruthers et al., 2008 - Generalized linear models: model selection, diagnostics, and overdispersion](https://drive.google.com/file/d/1msSVHclxUO-zMbZTLHqksvDel9m51h0R/view)
+
+### Causal inference research conducted at Bren & UCSB
+
+- [Sarah Anderson - Monitoring → Compliance](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12428?casa_token=G2Ae3oUP-JcAAAAA%3Azcz3yAxUltiPl0U-XnImZJdf5jSsN5oyvlEtOxPXZG5Yj0AFiX1fzn3vQR8F0iVbGBnYEc17AD4uYq10BA)
+- [Mark Buntaine - Citizen participation → Env. Policy](https://www.aeaweb.org/articles?id=10.1257/aer.20221215)
+- [Joan Dudney - Climate change → Infectious tree disease](https://www.nature.com/articles/s41467-021-25182-6)
+- [Leah Stokes - Voting → Climate policy](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12220)
+- [Olivier Deschenes - Climate change → Agricultural output](https://www.aeaweb.org/articles?id=10.1257/aer.97.1.354)
+- [Matto Mildenberger - Wildfires → Voting](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/wildfire-exposure-increases-proenvironment-voting-within-democratic-but-not-republican-areas/8F483913E13A44DCB975CE90024C0931)
+- [Kyle Meng - Marine Reserves, Inequality, Ground water rights](https://www.kylemeng.com/)
+
+### Randomized experiments
+
+- [EDS 241 - Glossary of Econometrics and Statistics Terms ](https://docs.google.com/document/d/1RIudsVcYhWGpqC-Uftk9UTz3PIq6stVyEpT44EPNgpE/edit?usp=drive_link)
+- [Buntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda](https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view)
+- [J-PAL power calculation tool](https://www.povertyactionlab.org/resource/power-calculations)
+- [EGAP power calculation tool](https://egap.shinyapps.io/power-app/)
+
+### Lab & assignment handouts
+- [Lab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast)
+- [Assignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241)
+- [Lab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)](https://garberadamc.github.io/project-site/Lab2-Moland13_KEY)
+- [Extra lab - Illustration of 'unbiased estimator' concept using {gganimate}](https://github.com/garberadamc/unbiased-estimator-viz) | [View GIF](https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view)
+
+### Difference-in-difference estimator (DiD)
+
+- [Moland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study](https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view)
+
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

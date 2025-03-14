@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Recommended reading &amp; materials – EDS 241</title>
+<title>Recommended reading &amp; extra resources – EDS 241</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -77,8 +77,8 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
-    <div id="quarto-announcement" data-announcement-id="967f15efc859f7b6bee159932d828f01" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>This website is currently under development! (updated; 12.9.2024)</p>
+    <div id="quarto-announcement" data-announcement-id="29a8615b8880af85545d530856e0175b" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p>Website updated; 03.12.2025</p>
 </div></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
@@ -119,16 +119,32 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">week 3 (22/01/25)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./course-materials/week4.qmd">
+    <a class="dropdown-item" href="./course-materials/week4.html">
  <span class="dropdown-text">week 4 (29/01/25)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./course-materials/week5.qmd">
+    <a class="dropdown-item" href="./course-materials/week5.html">
  <span class="dropdown-text">week 5 (05/02/25)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./course-materials/week6.qmd">
+    <a class="dropdown-item" href="./course-materials/week6.html">
  <span class="dropdown-text">week 6 (12/02/25)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./course-materials/week7.html">
+ <span class="dropdown-text">week 7 (19/02/25)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./course-materials/week8.html">
+ <span class="dropdown-text">week 8 (26/02/25)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./course-materials/week9.html">
+ <span class="dropdown-text">week 9 (05/03/25)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./course-materials/week10.html">
+ <span class="dropdown-text">week 10 (12/03/25)</span></a>
   </li>  
     </ul>
   </li>
@@ -178,13 +194,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Recommended reading &amp; materials</h1>
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Recommended reading &amp; <code>extra</code> resources</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -195,19 +211,127 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#general-topics---data-science" id="toc-general-topics---data-science" class="nav-link active" data-scroll-target="#general-topics---data-science">General topics - data science</a></li>
+  <li><a href="#generalized-linear-models-glms" id="toc-generalized-linear-models-glms" class="nav-link" data-scroll-target="#generalized-linear-models-glms">Generalized Linear Models (GLMs)</a></li>
+  <li><a href="#causal-inference-research-conducted-at-bren-ucsb" id="toc-causal-inference-research-conducted-at-bren-ucsb" class="nav-link" data-scroll-target="#causal-inference-research-conducted-at-bren-ucsb">Causal inference research conducted at Bren &amp; UCSB</a></li>
+  <li><a href="#randomized-experiments" id="toc-randomized-experiments" class="nav-link" data-scroll-target="#randomized-experiments">Randomized experiments</a></li>
+  <li><a href="#lab-assignment-handouts" id="toc-lab-assignment-handouts" class="nav-link" data-scroll-target="#lab-assignment-handouts">Lab &amp; assignment handouts</a></li>
+  <li><a href="#difference-in-difference-estimator-did" id="toc-difference-in-difference-estimator-did" class="nav-link" data-scroll-target="#difference-in-difference-estimator-did">Difference-in-difference estimator (DiD)</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
 
-<p>Resources to be added here <code>soon</code>!</p>
+<p>This is a collection of all studies, books, or R packages referenced in EDS 241 organized by topic!</p>
+<section id="general-topics---data-science" class="level3">
+<h3 class="anchored" data-anchor-id="general-topics---data-science">General topics - data science</h3>
+<p><strong>Reproducibility</strong></p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1gEqGjKmrlt96k0a-JURtbIHnc_VIUiyK/view">Lowndes et al., 2017 - Our path to better science in less time using open data science tools</a></li>
+<li><a href="https://drive.google.com/file/d/1Cx2fqgKDTzMQjXtyo4Cz2YK4dQQzpb4Z/view?usp=drive_link">Gehlman &amp; Loken, 2013 - The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking”</a></li>
+</ul>
+<p><strong>Data viz</strong></p>
+<ul>
+<li><p><a href="https://rpsychologist.com/viz/">Animated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson</a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href="https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view">Larsen, Meng, &amp; Kendall 2018 - Causal analysis in control–impact ecological studies with observational data</a></p></li>
+</ul>
+</section>
+<section id="generalized-linear-models-glms" class="level3">
+<h3 class="anchored" data-anchor-id="generalized-linear-models-glms">Generalized Linear Models (GLMs)</h3>
+<ul>
+<li><a href="https://drive.google.com/file/d/1msSVHclxUO-zMbZTLHqksvDel9m51h0R/view">Carruthers et al., 2008 - Generalized linear models: model selection, diagnostics, and overdispersion</a></li>
+</ul>
+</section>
+<section id="causal-inference-research-conducted-at-bren-ucsb" class="level3">
+<h3 class="anchored" data-anchor-id="causal-inference-research-conducted-at-bren-ucsb">Causal inference research conducted at Bren &amp; UCSB</h3>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12428?casa_token=G2Ae3oUP-JcAAAAA%3Azcz3yAxUltiPl0U-XnImZJdf5jSsN5oyvlEtOxPXZG5Yj0AFiX1fzn3vQR8F0iVbGBnYEc17AD4uYq10BA">Sarah Anderson - Monitoring → Compliance</a></li>
+<li><a href="https://www.aeaweb.org/articles?id=10.1257/aer.20221215">Mark Buntaine - Citizen participation → Env. Policy</a></li>
+<li><a href="https://www.nature.com/articles/s41467-021-25182-6">Joan Dudney - Climate change → Infectious tree disease</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12220">Leah Stokes - Voting → Climate policy</a></li>
+<li><a href="https://www.aeaweb.org/articles?id=10.1257/aer.97.1.354">Olivier Deschenes - Climate change → Agricultural output</a></li>
+<li><a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/wildfire-exposure-increases-proenvironment-voting-within-democratic-but-not-republican-areas/8F483913E13A44DCB975CE90024C0931">Matto Mildenberger - Wildfires → Voting</a></li>
+<li><a href="https://www.kylemeng.com/">Kyle Meng - Marine Reserves, Inequality, Ground water rights</a></li>
+</ul>
+</section>
+<section id="randomized-experiments" class="level3">
+<h3 class="anchored" data-anchor-id="randomized-experiments">Randomized experiments</h3>
+<ul>
+<li><a href="https://docs.google.com/document/d/1RIudsVcYhWGpqC-Uftk9UTz3PIq6stVyEpT44EPNgpE/edit?usp=drive_link">EDS 241 - Glossary of Econometrics and Statistics Terms</a></li>
+<li><a href="https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view">Buntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda</a></li>
+<li><a href="https://www.povertyactionlab.org/resource/power-calculations">J-PAL power calculation tool</a></li>
+<li><a href="https://egap.shinyapps.io/power-app/">EGAP power calculation tool</a></li>
+</ul>
+</section>
+<section id="lab-assignment-handouts" class="level3">
+<h3 class="anchored" data-anchor-id="lab-assignment-handouts">Lab &amp; assignment handouts</h3>
+<ul>
+<li><a href="https://garberadamc.github.io/project-site/Lab1-Generalize-Fast">Lab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024</a></li>
+<li><a href="https://garberadamc.github.io/project-site/hw1-lobstrs-eds241">Assignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)</a></li>
+<li><a href="https://garberadamc.github.io/project-site/Lab2-Moland13_KEY">Lab 2: Code-along 🦞 → Tables, Figures, &amp; Lobsters (OH MY!)</a></li>
+<li><a href="https://github.com/garberadamc/unbiased-estimator-viz">Extra lab - Illustration of ‘unbiased estimator’ concept using {gganimate}</a> | <a href="https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view">View GIF</a></li>
+</ul>
+</section>
+<section id="difference-in-difference-estimator-did" class="level3">
+<h3 class="anchored" data-anchor-id="difference-in-difference-estimator-did">Difference-in-difference estimator (DiD)</h3>
+<ul>
+<li><p><a href="https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view">Moland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study</a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+<li><p><a href=""></a></p></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
