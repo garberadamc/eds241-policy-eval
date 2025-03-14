@@ -4,9 +4,14 @@ subtitle: ""
 toc: true
 ---
 
+# Final Project - EDS241
+
 ::: {.callout-important}
-## Important: Email group presentation slides to instructor (Adam) before 7am (3/19)
-Presentation slides must be emailed to your instructor (Adam) before 7am (3/19). Acceptable submission formats include `google slides` or a shared link of slide-deck in `pdf` format (i.e., *a google drive link*).
+## Important: Email group presentation slides to instructor (Adam) before 7am on presentation day! (3/19)
+
+- Presentation slides must be emailed to your instructor (Adam) before 7am (3/19) 
+- Acceptable submission formats include `google slides` or a shared link of the slides in `pdf` format (i.e., *a Google Drive link*)
+- If slides are available in advance please send early!
 :::
  
 ## Final project links: 
