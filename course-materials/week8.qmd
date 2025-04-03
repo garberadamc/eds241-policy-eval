@@ -1,6 +1,6 @@
 ---
 title: "Week 8: "
-subtitle: "Matching & Instrumental Variable Estimation"
+subtitle: "Matching Methods & Instrumental Variable Estimation"
 description: "Wednesday, February 26th, 2025"
 ---
 
@@ -22,9 +22,4 @@ description: "Wednesday, February 26th, 2025"
 | Review chapter - *Mastering Metrics*  | Chapter 3 - Instrumental Variables | 02/26/2025 |  |
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
-
-
-## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
-
-
 

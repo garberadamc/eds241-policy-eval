@@ -9,10 +9,11 @@ description: "Week 3: Wednesday, January 22, 2025"
 
 | Lecture slides | Lab | Answer key |
 |----------------|-----|------------|
-| [Lecture 3](https://drive.google.com/file/d/1OZElgGhjne2zdn6MYrk63eYG9DSE69xo/view?usp=drive_link){target="_blank"} | *NA* | *NA* |
+| [Lecture 3 - Experimental Design (Professor Mark Buntaine)](https://drive.google.com/file/d/1OZElgGhjne2zdn6MYrk63eYG9DSE69xo/view?usp=drive_link){target="_blank"} | *NA* | *NA* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
+<br>
 
 ## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
 
@@ -25,14 +26,17 @@ description: "Week 3: Wednesday, January 22, 2025"
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
 
-::: {.center-text}
+<br>
 
+::: {.left-text}
 
 ## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
 
 - [Video - Interpreting regression coefficients & interactions - Assignment 1](https://drive.google.com/file/d/1ZYYDIodWKhrjzroVFGoBzN58LV5YT_Ol/view?usp=sharing)
 
 :::
+
+<br>
 
 ::: {.callout-tip}
 # Assignment Submission and Rubric

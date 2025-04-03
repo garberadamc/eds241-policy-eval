@@ -1,9 +1,34 @@
 ---
-title: "Recommended reading & `extra` resources"
+title: "All Course Materials + `Additional` Readings & Resources Organized by Topic"
 toc: true
 ---
 
-This is a collection of all studies, books, or R packages referenced in EDS 241 organized by topic!
+##  **All** course materials
+
+### Lectures
+
+- [Lecture 1](https://drive.google.com/file/d/1FzwRi8Lh6snUfv5gX4fa-APQxk9TnVVz/view?usp=drive_link)
+- [Lecture 2](https://drive.google.com/file/d/1DpBNJflvGEBtA3gKllV7wTPu8kYFLjpb/view?usp=drive_link)
+- [Lecture 3](https://drive.google.com/file/d/1OZElgGhjne2zdn6MYrk63eYG9DSE69xo/view?usp=sharing)
+- [Lecture 4](https://drive.google.com/file/d/1k5XwhonfxvDBKOqHp4KqVp30oG9Bshgg/view?usp=drive_link)
+- [Lecture 5](https://drive.google.com/file/d/1vgmrn4C25WNNQrp6VRvy5qCJWh5LgMLK/view?usp=drive_link)
+- [Lecture 6](https://drive.google.com/file/d/150rJaV6XuOaZnEn-4_zAF26agLrb3Cb0/view?usp=drive_link)
+- [Lecture 7](https://drive.google.com/file/d/1KHsf4Z9qaeKuyn2LdqdRKDnRG2h1I8fr/view?usp=drive_link)
+- [Lecture 8]()
+- [Lecture 9]()
+- [Lecture 10](https://drive.google.com/file/d/12RI9Ap6VdiIDhAanQTZ3WEGcoahU1f69/view?usp=drive_link)
+
+### Labs 
+
+- [Lab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast)
+- [Lab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)](https://garberadamc.github.io/project-site/Lab2-Moland13_KEY)
+- [Extra lab - Illustration of 'unbiased estimator' concept using {gganimate}](https://github.com/garberadamc/unbiased-estimator-viz) | [View GIF](https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view)
+
+### Assignments
+
+- [Assignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241)
+
+## Applied studies referenced in EDS 241 - organized by topic!
 
 ### General topics - data science
 
@@ -45,12 +70,6 @@ This is a collection of all studies, books, or R packages referenced in EDS 241 
 - [Buntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda](https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view)
 - [J-PAL power calculation tool](https://www.povertyactionlab.org/resource/power-calculations)
 - [EGAP power calculation tool](https://egap.shinyapps.io/power-app/)
-
-### Lab & assignment handouts
-- [Lab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast)
-- [Assignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241)
-- [Lab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)](https://garberadamc.github.io/project-site/Lab2-Moland13_KEY)
-- [Extra lab - Illustration of 'unbiased estimator' concept using {gganimate}](https://github.com/garberadamc/unbiased-estimator-viz) | [View GIF](https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view)
 
 ### Difference-in-difference estimator (DiD)
 

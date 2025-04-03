@@ -2,9 +2,23 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Recommended reading & extra resources",
+    "title": "All Course Materials + Additional Readings & Resources Organized by Topic",
     "section": "",
-    "text": "This is a collection of all studies, books, or R packages referenced in EDS 241 organized by topic!\n\nGeneral topics - data science\nReproducibility\n\nLowndes et al., 2017 - Our path to better science in less time using open data science tools\nGehlman & Loken, 2013 - The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking”\n\nData viz\n\nAnimated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson\n\n\n\n\n\n\n\nLarsen, Meng, & Kendall 2018 - Causal analysis in control–impact ecological studies with observational data\n\n\n\nGeneralized Linear Models (GLMs)\n\nCarruthers et al., 2008 - Generalized linear models: model selection, diagnostics, and overdispersion\n\n\n\nCausal inference research conducted at Bren & UCSB\n\nSarah Anderson - Monitoring → Compliance\nMark Buntaine - Citizen participation → Env. Policy\nJoan Dudney - Climate change → Infectious tree disease\nLeah Stokes - Voting → Climate policy\nOlivier Deschenes - Climate change → Agricultural output\nMatto Mildenberger - Wildfires → Voting\nKyle Meng - Marine Reserves, Inequality, Ground water rights\n\n\n\nRandomized experiments\n\nEDS 241 - Glossary of Econometrics and Statistics Terms\nBuntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda\nJ-PAL power calculation tool\nEGAP power calculation tool\n\n\n\nLab & assignment handouts\n\nLab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024\nAssignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)\nLab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)\nExtra lab - Illustration of ‘unbiased estimator’ concept using {gganimate} | View GIF\n\n\n\nDifference-in-difference estimator (DiD)\n\nMoland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study"
+    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 4\nLecture 5\nLecture 6\nLecture 7\nLecture 8\nLecture 9\nLecture 10\n\n\n\n\n\nLab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024\nLab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)\nExtra lab - Illustration of ‘unbiased estimator’ concept using {gganimate} | View GIF\n\n\n\n\n\nAssignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)"
+  },
+  {
+    "objectID": "resources.html#all-course-materials",
+    "href": "resources.html#all-course-materials",
+    "title": "All Course Materials + Additional Readings & Resources Organized by Topic",
+    "section": "",
+    "text": "Lecture 1\nLecture 2\nLecture 3\nLecture 4\nLecture 5\nLecture 6\nLecture 7\nLecture 8\nLecture 9\nLecture 10\n\n\n\n\n\nLab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024\nLab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)\nExtra lab - Illustration of ‘unbiased estimator’ concept using {gganimate} | View GIF\n\n\n\n\n\nAssignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)"
+  },
+  {
+    "objectID": "resources.html#applied-studies-referenced-in-eds-241---organized-by-topic",
+    "href": "resources.html#applied-studies-referenced-in-eds-241---organized-by-topic",
+    "title": "All Course Materials + Additional Readings & Resources Organized by Topic",
+    "section": "Applied studies referenced in EDS 241 - organized by topic!",
+    "text": "Applied studies referenced in EDS 241 - organized by topic!\n\nGeneral topics - data science\nReproducibility\n\nLowndes et al., 2017 - Our path to better science in less time using open data science tools\nGehlman & Loken, 2013 - The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking”\n\nData viz\n\nAnimated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson\n\n\n\n\n\n\n\nLarsen, Meng, & Kendall 2018 - Causal analysis in control–impact ecological studies with observational data\n\n\n\nGeneralized Linear Models (GLMs)\n\nCarruthers et al., 2008 - Generalized linear models: model selection, diagnostics, and overdispersion\n\n\n\nCausal inference research conducted at Bren & UCSB\n\nSarah Anderson - Monitoring → Compliance\nMark Buntaine - Citizen participation → Env. Policy\nJoan Dudney - Climate change → Infectious tree disease\nLeah Stokes - Voting → Climate policy\nOlivier Deschenes - Climate change → Agricultural output\nMatto Mildenberger - Wildfires → Voting\nKyle Meng - Marine Reserves, Inequality, Ground water rights\n\n\n\nRandomized experiments\n\nEDS 241 - Glossary of Econometrics and Statistics Terms\nBuntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda\nJ-PAL power calculation tool\nEGAP power calculation tool\n\n\n\nDifference-in-difference estimator (DiD)\n\nMoland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study"
   },
   {
     "objectID": "course-materials/lecture-slides/lecture1.1-slides.html#title-slide",
@@ -74,7 +88,7 @@
     "href": "course-materials/week5.html#extra-resources",
     "title": "Week 5:",
     "section": " Extra resources",
-    "text": "Extra resources\nCreate {gganimate} plot - Illustration of concept unbiased estimator:\n\n\nRepo - unbiased-estimator-viz\n\n\nExtra credit: Create an animated plot that illustrates a concept relevant to EDS 241 (i.e, causal inference, statistics, design-based methods). Take a look at the examples made by Kristoffer Magnusson for inspiration!\n\n\nCool stats visualizations: ‘R Psychologist’ - Kristoffer Magnusson\nReproducibility: Lowndes et al., 2017 - Our path to better science in less time using open data science tools"
+    "text": "Extra resources\nCreate {gganimate} plot - Illustration of concept unbiased estimator:\n\n\nRepo - unbiased-estimator-viz\n\n\nExtra credit: Create an animated plot that illustrates a concept relevant to EDS 241 (i.e, causal inference, statistics, design-based methods). Take a look at the examples made by Kristoffer Magnusson for inspiration!\n\n\nCool animations - visualize statistical concepts: ‘R Psychologist’ - Kristoffer Magnusson\nReproducibility: Lowndes et al., 2017 - Our path to better science in less time using open data science tools"
   },
   {
     "objectID": "course-materials/week6.html",
@@ -102,21 +116,21 @@
     "href": "course-materials/week6.html#extra-resources",
     "title": "Week 6:",
     "section": " Extra resources",
-    "text": "Extra resources\n\nOptional RDD Lab Handout - Estimating Regression Discontinuity (RDD)\nOptional RDD Lab Handout - Repository"
+    "text": "Extra resources\n\nOptional Lab - RDD - Handout - Estimating Regression Discontinuity (RDD)\nOptional Lab - RDD - Repository"
   },
   {
     "objectID": "course-materials/week3.html",
     "href": "course-materials/week3.html",
     "title": "Week 3:",
     "section": "",
-    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 3\nNA\nNA"
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 3 - Experimental Design (Professor Mark Buntaine)\nNA\nNA"
   },
   {
     "objectID": "course-materials/week3.html#lecture-materials",
     "href": "course-materials/week3.html#lecture-materials",
     "title": "Week 3:",
     "section": "",
-    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 3\nNA\nNA"
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 3 - Experimental Design (Professor Mark Buntaine)\nNA\nNA"
   },
   {
     "objectID": "course-materials/week3.html#assignment-reminders",
@@ -144,21 +158,21 @@
     "href": "course-materials/week1.html#lecture-materials",
     "title": "Week 1:",
     "section": " Lecture Materials",
-    "text": "Lecture Materials\n\n\n\n\n\n\n\n\nLecture slides\nLab\nAnswer key\n\n\n\n\nLecture 1: Intro. to Casual Inference\n• Handout: Lab 1,  • Repository: Lab 1"
+    "text": "Lecture Materials\n\n\n\n\n\n\n\n\nLecture slides\nLab\nAnswer key\n\n\n\n\nLecture 1: Intro. to Casual Inference\n• Handout: Lab 1, \n\n\n\n• Repository: Lab 1"
   },
   {
     "objectID": "course-materials/week1.html#assignment-reminders",
     "href": "course-materials/week1.html#assignment-reminders",
     "title": "Week 1:",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week1\n01/08/2025\n01/08/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 2\n01/08/2025\n01/15/2025\n\n\nReading - Article\nCareful read: Buntaine et al. (2024)\n01/08/2025\n(1) Read study carefully before the guest lecture! (2) Think of questions for Prof. Mark Buntaine\n\n\n\n\n\n\n\n\n\nAssignment Submission and Rubric\n\n\n\n\nSubmission: Submit assignments through GradeScope\nQuestion-specific guide: Each question has detailed grading criteria available on GradeScope. Be sure to review these guidelines before submitting your work!\nGeneral rubric outline: For an overview of the grading criteria, refer to the assignment rubric - general outline"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week1\n01/08/2025\n01/08/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 2\n01/08/2025\n01/15/2025\n\n\nReading - Article\nCareful read: Buntaine et al. (2024)\n01/08/2025\n(1) Read study carefully before the guest lecture! (2) Think of questions for Prof. Mark Buntaine\n\n\n\n\n\n\n\n\n\n\nAssignment Submission and Rubric\n\n\n\n\nSubmission: Submit assignments through GradeScope\nQuestion-specific guide: Each question has detailed grading criteria available on GradeScope. Be sure to review these guidelines before submitting your work!\nGeneral rubric outline: For an overview of the grading criteria, refer to the assignment rubric - general outline"
   },
   {
     "objectID": "course-materials/week1.html#discussion-materials",
     "href": "course-materials/week1.html#discussion-materials",
     "title": "Week 1:",
     "section": " Extra Resources",
-    "text": "Extra Resources\n\nReferences\n\nGelman, A., & Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Department of Statistics, Columbia University, 348(1-17), 3.\nBuntaine, M. T., Komakech, P., & Shen, S. V. (2024). Social competition drives collective action to reduce informal waste burning in Uganda. Proceedings of the National Academy of Sciences, 121(23), e2319712121."
+    "text": "Extra Resources\n\n\nReferences\n\nGelman, A., & Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Department of Statistics, Columbia University, 348(1-17), 3.\nBuntaine, M. T., Komakech, P., & Shen, S. V. (2024). Social competition drives collective action to reduce informal waste burning in Uganda. Proceedings of the National Academy of Sciences, 121(23), e2319712121."
   },
   {
     "objectID": "course-materials/week9.html",
@@ -280,13 +294,6 @@
     "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week8\n02/26/2025\n02/26/2025, 11:55pm\n\n\nReading - Article\nStatistical matching for conservation science - Schleicher et al., 2019 -\n02/16/2025\n\n\n\nReview chapter - Mastering Metrics\nChapter 3 - Instrumental Variables\n02/26/2025"
   },
   {
-    "objectID": "course-materials/week8.html#extra-resources",
-    "href": "course-materials/week8.html#extra-resources",
-    "title": "Week 8:",
-    "section": " Extra resources",
-    "text": "Extra resources"
-  },
-  {
     "objectID": "course-materials/discussion-materials/week1-discussion-slides.html#title-slide",
     "href": "course-materials/discussion-materials/week1-discussion-slides.html#title-slide",
     "title": "EDS 241",
@@ -303,23 +310,23 @@
   {
     "objectID": "course-materials/week2.html",
     "href": "course-materials/week2.html",
-    "title": "Week 2 topic(s):",
+    "title": "Week 2:",
     "section": "",
-    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 2\nHandout: Generalize Fast! , Lab1-repository\nSee repository"
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 2\nHandout: Lab 1 Generalize Fast! , Repository: Lab 1\nSee repository"
   },
   {
     "objectID": "course-materials/week2.html#lecture-materials",
     "href": "course-materials/week2.html#lecture-materials",
-    "title": "Week 2 topic(s):",
+    "title": "Week 2:",
     "section": "",
-    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 2\nHandout: Generalize Fast! , Lab1-repository\nSee repository"
+    "text": "Lecture slides\nLab\nAnswer key\n\n\n\n\nLecture 2\nHandout: Lab 1 Generalize Fast! , Repository: Lab 1\nSee repository"
   },
   {
     "objectID": "course-materials/week2.html#assignment-reminders",
     "href": "course-materials/week2.html#assignment-reminders",
-    "title": "Week 2 topic(s):",
+    "title": "Week 2:",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week2\n01/15/2025\n01/15/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Generalized Linear Models\nCarruthers et al., 2008\n01/15/2025\n01/22/2025\n\n\n\n\n\n\n\n\n\nAssignment Submission and Rubric\n\n\n\n\nSubmission: Submit assignments through GradeScope\nQuestion-specific guide: Each question has detailed grading criteria available on GradeScope. Be sure to review these guidelines before submitting your work!\nGeneral rubric outline: For an overview of the grading criteria, refer to the assignment rubric - general outline"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week2\n01/15/2025\n01/15/2025, 11:55pm\n\n\nAssignment 1\nHandout: HW1-LOBSTRS , Repository: HW1-LOBSTRS\n01/08/2025\n01/26/2025, 11:59pm\n\n\nReading - Generalized Linear Models\nCarruthers et al., 2008\n01/15/2025\n01/22/2025\n\n\n\n\n\n\n\n\n\n\nAssignment Submission and Rubric\n\n\n\n\nSubmission: Submit assignments through GradeScope\nQuestion-specific guide: Each question has detailed grading criteria available on GradeScope. Be sure to review these guidelines before submitting your work!\nGeneral rubric outline: For an overview of the grading criteria, refer to the assignment rubric - general outline"
   },
   {
     "objectID": "course-materials/week7.html",
@@ -340,14 +347,7 @@
     "href": "course-materials/week7.html#assignment-reminders",
     "title": "Week 7:",
     "section": " Assignment Reminders",
-    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week7\n02/19/2025\n02/19/2025, 11:55pm\n\n\nAssignment 2\nInvestigating Causal Inference Designs Applied in Environmental Science\n02/10/2025\n02/23/2025, 11:59pm\n\n\nReading - Article\nStatistical matching for conservation science - Schleicher et al., 2019 -\n02/16/2025\n\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 6\n02/12/2025\n02/19/2025"
-  },
-  {
-    "objectID": "course-materials/week7.html#extra-resources",
-    "href": "course-materials/week7.html#extra-resources",
-    "title": "Week 7:",
-    "section": " Extra resources",
-    "text": "Extra resources\n\nOptional RDD Lab Handout - Estimating Regression Discontinuity (RDD)\nOptional RDD Lab Handout - Repository"
+    "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week7\n02/19/2025\n02/19/2025, 11:55pm\n\n\nAssignment 2\nInvestigating Causal Inference Designs Applied in Environmental Science\n02/10/2025\n02/23/2025, 11:59pm\n\n\nReading - Article\nStatistical Matching for Conservation Science - Schleicher et al., 2019 -\n02/16/2025\n\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 6\n02/12/2025\n02/19/2025"
   },
   {
     "objectID": "course-materials/week4.html",
@@ -369,13 +369,6 @@
     "title": "Week 4:",
     "section": " Assignment Reminders",
     "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nEnd of Class Survey\nEOC-Week4\n01/29/2025\n01/29/2025, 11:55pm\n\n\nReading - Mastering ’Metrics\nA&P: Chapter 4 - Regression Discontinuity\n01/29/2025\n\n\n\nReading - Lobster and cod benefit from small-scale northern marine protected areas: Inference from an empirical before–after control-impact study\nMoland et al., 2013\n01/29/2025"
-  },
-  {
-    "objectID": "course-materials/week4.html#extra-resources",
-    "href": "course-materials/week4.html#extra-resources",
-    "title": "Week 4:",
-    "section": " Extra resources",
-    "text": "Extra resources"
   },
   {
     "objectID": "course-materials/keys/key1.1.html",
@@ -418,12 +411,5 @@
     "title": "Week 10:",
     "section": " Assignment Reminders",
     "text": "Assignment Reminders\n\n\n\n\n\n\n\n\n\nAssignment Type\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\n\nReminder: Please fill out the EDS 241 course evaluations.  No EOC survey this week!\n03/12/2025\n03/12/2025, 11:55pm\n\n\nReading - Article\nGertler, 2004 - High Impact Randomized Experiment - PROGRESA Intervention\n03/12/2025"
-  },
-  {
-    "objectID": "course-materials/week10.html#extra-resources",
-    "href": "course-materials/week10.html#extra-resources",
-    "title": "Week 10:",
-    "section": " Extra resources",
-    "text": "Extra resources"
   }
 ]

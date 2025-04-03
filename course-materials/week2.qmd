@@ -1,18 +1,18 @@
 ---
-title: "Week 2 topic(s): "
-subtitle: "Generalized Linear Models & Causal inference"
+title: "Week 2: "
+subtitle: "Generalized Linear Models, Experimental Design, & Potential Outcomes"
 description: "Wednesday January 15^th^, 2025"
 ---
-
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
 | Lecture slides | Lab |  Answer key |
 |----------------|------|------------|
-| [Lecture 2](https://drive.google.com/file/d/1DpBNJflvGEBtA3gKllV7wTPu8kYFLjpb/view?usp=sharing){target="_blank"} | [Handout: Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast){target="_blank"} ,  [Lab1-repository](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *See repository* |
+| [Lecture 2](https://drive.google.com/file/d/1DpBNJflvGEBtA3gKllV7wTPu8kYFLjpb/view?usp=sharing){target="_blank"} | [Handout: Lab 1 Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast){target="_blank"} ,  [Repository: Lab 1](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *See repository* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
+<br>
 
 ## {{< fa pencil title="pencil" >}} Assignment Reminders {#assignment-reminders}
 
@@ -23,6 +23,8 @@ description: "Wednesday January 15^th^, 2025"
 | Reading - Generalized Linear Models  | [Carruthers et al., 2008](https://drive.google.com/file/d/1msSVHclxUO-zMbZTLHqksvDel9m51h0R/view?usp=drive_link){target="_blank"} | 01/15/2025 | 01/22/2025 |
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
+
+<br>
 
 ::: {.callout-tip}
 # Assignment Submission and Rubric

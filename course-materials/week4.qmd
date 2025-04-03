@@ -1,6 +1,6 @@
 ---
 title: "Week 4: "
-subtitle: "Difference-in-Difference, Panel Data, & Fixed Effects"
+subtitle: "Difference-in-Difference Applied to MPA Evaluation"
 description: "Wednesday, January 29, 2025"
 ---
 
@@ -24,8 +24,4 @@ description: "Wednesday, January 29, 2025"
 
 : {.hover .bordered tbl-colwidths="[20,30,20,30]"} 
 
-::: {.center-text}
-
-
-## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
 
