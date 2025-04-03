@@ -14,7 +14,7 @@ toc: true
 - [Lecture 5](https://drive.google.com/file/d/1vgmrn4C25WNNQrp6VRvy5qCJWh5LgMLK/view?usp=drive_link)
 - [Lecture 6](https://drive.google.com/file/d/150rJaV6XuOaZnEn-4_zAF26agLrb3Cb0/view?usp=drive_link)
 - [Lecture 7](https://drive.google.com/file/d/1KHsf4Z9qaeKuyn2LdqdRKDnRG2h1I8fr/view?usp=drive_link)
-- [Lecture 8]()
+- [Lecture 8](https://garberadamc.github.io/eds241-policy-eval/W8-Lab)
 - [Lecture 9]()
 - [Lecture 10](https://drive.google.com/file/d/12RI9Ap6VdiIDhAanQTZ3WEGcoahU1f69/view?usp=drive_link)
 
