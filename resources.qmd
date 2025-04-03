@@ -15,18 +15,29 @@ toc: true
 - [Lecture 6](https://drive.google.com/file/d/150rJaV6XuOaZnEn-4_zAF26agLrb3Cb0/view?usp=drive_link)
 - [Lecture 7](https://drive.google.com/file/d/1KHsf4Z9qaeKuyn2LdqdRKDnRG2h1I8fr/view?usp=drive_link)
 - [Lecture 8](https://garberadamc.github.io/eds241-policy-eval/W8-Lab)
-- [Lecture 9]()
+- [Lecture 9.1](https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest), [9.2](https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15)
 - [Lecture 10](https://drive.google.com/file/d/12RI9Ap6VdiIDhAanQTZ3WEGcoahU1f69/view?usp=drive_link)
 
 ### Labs 
 
 - [Lab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast)
 - [Lab 2: Code-along 🦞 → Tables, Figures, & Lobsters (OH MY!)](https://garberadamc.github.io/project-site/Lab2-Moland13_KEY)
-- [Extra lab - Illustration of 'unbiased estimator' concept using {gganimate}](https://github.com/garberadamc/unbiased-estimator-viz) | [View GIF](https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view)
+- [Additional Lab - Illustration of 'Unbiased Estimator' Using {gganimate}](https://github.com/garberadamc/unbiased-estimator-viz) | [View GIF](https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view)
+- [Week 8 - Lab](https://garberadamc.github.io/eds241-policy-eval/W8-Lab)
+- [Week 9 - Lab Part 1](https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest)
+- [Week 9 - Lab Part 2](https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15)
 
 ### Assignments
 
 - [Assignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241)
+- [Assignment 2: Investigating Causal Inference Designs Applied in Environmental Science](https://docs.google.com/document/d/1c3RtddoEN-nXRerAWp4IgBvtw5zZyuBeezjmM3VM-QY/edit?usp=sharing){target="_blank"}
+
+**Final project**
+
+- [Final Project Instructions](https://docs.google.com/document/d/1pW-QzEenwRTEu8meupA_ELVcAmOtDSTq11QFCaO1eVY/edit?usp=sharing) 
+- [Study Group Assignments](https://docs.google.com/spreadsheets/d/16rPEUDtxgMFQNmf1PkByN9XN1T9oZv00_2_LPFyYLtU/edit?usp=sharing)
+- [Final Presentation Grading Rubric](https://docs.google.com/document/d/1R8BPlZ6RZWwygTcijZ5ENhktGFPYdlRGDqkIuVo2hDQ/edit?usp=sharing)
+- [Presentation Question Form](https://docs.google.com/document/d/1f1x97nH2liGQhDDN4JBBuFCFXLOGRGRIjTeNMdJuFW8/edit?usp=sharing)
 
 ## Applied studies referenced in EDS 241 - organized by topic!
 
@@ -40,14 +51,6 @@ toc: true
 **Data viz**
 
 - [Animated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson](https://rpsychologist.com/viz/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
 - [Larsen, Meng, & Kendall 2018 - Causal analysis in control–impact ecological studies with observational data](https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view)
 
 ### Generalized Linear Models (GLMs)
@@ -64,21 +67,27 @@ toc: true
 - [Matto Mildenberger - Wildfires → Voting](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/wildfire-exposure-increases-proenvironment-voting-within-democratic-but-not-republican-areas/8F483913E13A44DCB975CE90024C0931)
 - [Kyle Meng - Marine Reserves, Inequality, Ground water rights](https://www.kylemeng.com/)
 
-### Randomized experiments
+### Experimental Design
 
-- [EDS 241 - Glossary of Econometrics and Statistics Terms ](https://docs.google.com/document/d/1RIudsVcYhWGpqC-Uftk9UTz3PIq6stVyEpT44EPNgpE/edit?usp=drive_link)
 - [Buntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda](https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view)
-- [J-PAL power calculation tool](https://www.povertyactionlab.org/resource/power-calculations)
-- [EGAP power calculation tool](https://egap.shinyapps.io/power-app/)
+    - [EDS 241 - Glossary of Econometrics and Statistics Terms](https://docs.google.com/document/d/1RIudsVcYhWGpqC-Uftk9UTz3PIq6stVyEpT44EPNgpE/edit?usp=drive_link)
+    - [J-PAL power calculation tool](https://www.povertyactionlab.org/resource/power-calculations)
+    - [EGAP power calculation tool](https://egap.shinyapps.io/power-app/)
 
-### Difference-in-difference estimator (DiD)
+### Difference-in-Difference Design
 
 - [Moland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study](https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view)
 
+### Regression Discontinuity Design
+- []()
+- []()
+- []()
 
+### Instrumental Variable Design
 - []()
 - []()
 - []()
+
 - []()
 - []()
 - []()

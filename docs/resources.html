@@ -152,21 +152,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./assignments.html"> 
 <span class="menu-text">assignments</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">resources</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-resources">    
-        <li>
-    <a class="dropdown-item" href="./resources.html">
- <span class="dropdown-text">recommended readings &amp; resources</span></a>
+  <li class="nav-item">
+    <a class="nav-link active" href="./resources.html" aria-current="page"> 
+<span class="menu-text">resources</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="https://ucsb-meds.github.io/MEDS-installation-guide/" target="_blank">
- <span class="dropdown-text">MEDS installation guide</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-bi-github" role="link" data-bs-toggle="dropdown" aria-expanded="false">
       <i class="bi bi-github" role="img">
@@ -227,8 +216,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#general-topics---data-science" id="toc-general-topics---data-science" class="nav-link" data-scroll-target="#general-topics---data-science">General topics - data science</a></li>
   <li><a href="#generalized-linear-models-glms" id="toc-generalized-linear-models-glms" class="nav-link" data-scroll-target="#generalized-linear-models-glms">Generalized Linear Models (GLMs)</a></li>
   <li><a href="#causal-inference-research-conducted-at-bren-ucsb" id="toc-causal-inference-research-conducted-at-bren-ucsb" class="nav-link" data-scroll-target="#causal-inference-research-conducted-at-bren-ucsb">Causal inference research conducted at Bren &amp; UCSB</a></li>
-  <li><a href="#randomized-experiments" id="toc-randomized-experiments" class="nav-link" data-scroll-target="#randomized-experiments">Randomized experiments</a></li>
-  <li><a href="#difference-in-difference-estimator-did" id="toc-difference-in-difference-estimator-did" class="nav-link" data-scroll-target="#difference-in-difference-estimator-did">Difference-in-difference estimator (DiD)</a></li>
+  <li><a href="#experimental-design" id="toc-experimental-design" class="nav-link" data-scroll-target="#experimental-design">Experimental Design</a></li>
+  <li><a href="#difference-in-difference-design" id="toc-difference-in-difference-design" class="nav-link" data-scroll-target="#difference-in-difference-design">Difference-in-Difference Design</a></li>
+  <li><a href="#regression-discontinuity-design" id="toc-regression-discontinuity-design" class="nav-link" data-scroll-target="#regression-discontinuity-design">Regression Discontinuity Design</a></li>
+  <li><a href="#instrumental-variable-design" id="toc-instrumental-variable-design" class="nav-link" data-scroll-target="#instrumental-variable-design">Instrumental Variable Design</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -252,8 +243,8 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://drive.google.com/file/d/1vgmrn4C25WNNQrp6VRvy5qCJWh5LgMLK/view?usp=drive_link">Lecture 5</a></li>
 <li><a href="https://drive.google.com/file/d/150rJaV6XuOaZnEn-4_zAF26agLrb3Cb0/view?usp=drive_link">Lecture 6</a></li>
 <li><a href="https://drive.google.com/file/d/1KHsf4Z9qaeKuyn2LdqdRKDnRG2h1I8fr/view?usp=drive_link">Lecture 7</a></li>
-<li><a href="">Lecture 8</a></li>
-<li><a href="">Lecture 9</a></li>
+<li><a href="https://garberadamc.github.io/eds241-policy-eval/W8-Lab">Lecture 8</a></li>
+<li><a href="https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest">Lecture 9.1</a>, <a href="https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15">9.2</a></li>
 <li><a href="https://drive.google.com/file/d/12RI9Ap6VdiIDhAanQTZ3WEGcoahU1f69/view?usp=drive_link">Lecture 10</a></li>
 </ul>
 </section>
@@ -262,13 +253,24 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><a href="https://garberadamc.github.io/project-site/Lab1-Generalize-Fast">Lab 1: Generalize Fast! Replication of analyses from Buntaine et al., 2024</a></li>
 <li><a href="https://garberadamc.github.io/project-site/Lab2-Moland13_KEY">Lab 2: Code-along 🦞 → Tables, Figures, &amp; Lobsters (OH MY!)</a></li>
-<li><a href="https://github.com/garberadamc/unbiased-estimator-viz">Extra lab - Illustration of ‘unbiased estimator’ concept using {gganimate}</a> | <a href="https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view">View GIF</a></li>
+<li><a href="https://github.com/garberadamc/unbiased-estimator-viz">Additional Lab - Illustration of ‘Unbiased Estimator’ Using {gganimate}</a> | <a href="https://drive.google.com/file/d/1wxSU-pvLdZ0MO-4ozgzbYwLFLNzKWQ9e/view">View GIF</a></li>
+<li><a href="https://garberadamc.github.io/eds241-policy-eval/W8-Lab">Week 8 - Lab</a></li>
+<li><a href="https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest">Week 9 - Lab Part 1</a></li>
+<li><a href="https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15">Week 9 - Lab Part 2</a></li>
 </ul>
 </section>
 <section id="assignments" class="level3">
 <h3 class="anchored" data-anchor-id="assignments">Assignments</h3>
 <ul>
 <li><a href="https://garberadamc.github.io/project-site/hw1-lobstrs-eds241">Assignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)</a></li>
+<li><a href="https://docs.google.com/document/d/1c3RtddoEN-nXRerAWp4IgBvtw5zZyuBeezjmM3VM-QY/edit?usp=sharing" target="_blank">Assignment 2: Investigating Causal Inference Designs Applied in Environmental Science</a></li>
+</ul>
+<p><strong>Final project</strong></p>
+<ul>
+<li><a href="https://docs.google.com/document/d/1pW-QzEenwRTEu8meupA_ELVcAmOtDSTq11QFCaO1eVY/edit?usp=sharing">Final Project Instructions</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/16rPEUDtxgMFQNmf1PkByN9XN1T9oZv00_2_LPFyYLtU/edit?usp=sharing">Study Group Assignments</a></li>
+<li><a href="https://docs.google.com/document/d/1R8BPlZ6RZWwygTcijZ5ENhktGFPYdlRGDqkIuVo2hDQ/edit?usp=sharing">Final Presentation Grading Rubric</a></li>
+<li><a href="https://docs.google.com/document/d/1f1x97nH2liGQhDDN4JBBuFCFXLOGRGRIjTeNMdJuFW8/edit?usp=sharing">Presentation Question Form</a></li>
 </ul>
 </section>
 </section>
@@ -283,15 +285,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p><strong>Data viz</strong></p>
 <ul>
-<li><p><a href="https://rpsychologist.com/viz/">Animated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson</a></p></li>
-<li><p><a href=""></a></p></li>
-<li><p><a href=""></a></p></li>
-<li><p><a href=""></a></p></li>
-<li><p><a href=""></a></p></li>
-<li><p><a href=""></a></p></li>
-<li><p><a href=""></a></p></li>
-<li><p><a href=""></a></p></li>
-<li><p><a href="https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view">Larsen, Meng, &amp; Kendall 2018 - Causal analysis in control–impact ecological studies with observational data</a></p></li>
+<li><a href="https://rpsychologist.com/viz/">Animated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson</a></li>
+<li><a href="https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view">Larsen, Meng, &amp; Kendall 2018 - Causal analysis in control–impact ecological studies with observational data</a></li>
 </ul>
 </section>
 <section id="generalized-linear-models-glms" class="level3">
@@ -312,19 +307,34 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://www.kylemeng.com/">Kyle Meng - Marine Reserves, Inequality, Ground water rights</a></li>
 </ul>
 </section>
-<section id="randomized-experiments" class="level3">
-<h3 class="anchored" data-anchor-id="randomized-experiments">Randomized experiments</h3>
+<section id="experimental-design" class="level3">
+<h3 class="anchored" data-anchor-id="experimental-design">Experimental Design</h3>
+<ul>
+<li><a href="https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view">Buntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda</a>
 <ul>
 <li><a href="https://docs.google.com/document/d/1RIudsVcYhWGpqC-Uftk9UTz3PIq6stVyEpT44EPNgpE/edit?usp=drive_link">EDS 241 - Glossary of Econometrics and Statistics Terms</a></li>
-<li><a href="https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view">Buntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda</a></li>
 <li><a href="https://www.povertyactionlab.org/resource/power-calculations">J-PAL power calculation tool</a></li>
 <li><a href="https://egap.shinyapps.io/power-app/">EGAP power calculation tool</a></li>
+</ul></li>
 </ul>
 </section>
-<section id="difference-in-difference-estimator-did" class="level3">
-<h3 class="anchored" data-anchor-id="difference-in-difference-estimator-did">Difference-in-difference estimator (DiD)</h3>
+<section id="difference-in-difference-design" class="level3">
+<h3 class="anchored" data-anchor-id="difference-in-difference-design">Difference-in-Difference Design</h3>
 <ul>
-<li><p><a href="https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view">Moland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study</a></p></li>
+<li><a href="https://drive.google.com/file/d/1TjKa7gH9YVCSpG4HeWb7LFFbsqoSEYeQ/view">Moland et al., 2013 - Lobster and cod benefit from small-scale northern marine protected areas: inference from an empirical before– after control-impact study</a></li>
+</ul>
+</section>
+<section id="regression-discontinuity-design" class="level3">
+<h3 class="anchored" data-anchor-id="regression-discontinuity-design">Regression Discontinuity Design</h3>
+<ul>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</ul>
+</section>
+<section id="instrumental-variable-design" class="level3">
+<h3 class="anchored" data-anchor-id="instrumental-variable-design">Instrumental Variable Design</h3>
+<ul>
 <li><p><a href=""></a></p></li>
 <li><p><a href=""></a></p></li>
 <li><p><a href=""></a></p></li>

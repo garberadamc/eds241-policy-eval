@@ -43,12 +43,7 @@ website:
       - text: assignments
         href: assignments.qmd
       - text: resources
-        menu: 
-          - text: recommended readings & resources
-            href: resources.qmd
-          - text: MEDS installation guide
-            href: https://ucsb-meds.github.io/MEDS-installation-guide/
-            target: _blank
+        href: resources.qmd
       - icon: github
         menu:
           - text: Source Code
