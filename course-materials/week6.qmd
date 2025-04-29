@@ -29,7 +29,6 @@ description: "Wednesday, February 12th, 2025"
 
 ## {{< fa person-chalkboard title="A person motioning at a chalkboard" >}} [**Extra resources**]{.teal-text .body-text-m}
 
-- `Optional Lab - RDD ` - [Handout - Estimating Regression Discontinuity (RDD)](https://garberadamc.github.io/eds241-policy-eval/RDD-SIM)
--  `Optional Lab - RDD` - [Repository](https://github.com/garberadamc/RDD-SIM)
+- `RDD Lab (optional)`: [Handout - Estimating Regression Discontinuity](https://garberadamc.github.io/eds241-policy-eval/RDD-SIM){target="_blank"} , [RDD Lab Repository](https://github.com/garberadamc/RDD-SIM){target="_blank"}
 
 

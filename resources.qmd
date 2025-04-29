@@ -15,7 +15,7 @@ toc: true
 - [Lecture 6](https://drive.google.com/file/d/150rJaV6XuOaZnEn-4_zAF26agLrb3Cb0/view?usp=drive_link)
 - [Lecture 7](https://drive.google.com/file/d/1KHsf4Z9qaeKuyn2LdqdRKDnRG2h1I8fr/view?usp=drive_link)
 - [Lecture 8](https://garberadamc.github.io/eds241-policy-eval/W8-Lab)
-- [Lecture 9.1](https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest), [9.2](https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15)
+- **Lecture 9** ([Part 1](https://garberadamc.github.io/eds241-policy-eval/RDD-Protect-Forest), [Part 2](https://garberadamc.github.io/eds241-policy-eval/DiD-FE-Stokes15))
 - [Lecture 10](https://drive.google.com/file/d/12RI9Ap6VdiIDhAanQTZ3WEGcoahU1f69/view?usp=drive_link)
 
 ### Labs 
@@ -32,7 +32,7 @@ toc: true
 - [Assignment 1: California Spiny Lobster Abundance (Panulirus Interruptus)](https://garberadamc.github.io/project-site/hw1-lobstrs-eds241)
 - [Assignment 2: Investigating Causal Inference Designs Applied in Environmental Science](https://docs.google.com/document/d/1c3RtddoEN-nXRerAWp4IgBvtw5zZyuBeezjmM3VM-QY/edit?usp=sharing){target="_blank"}
 
-**Final project**
+### Final project
 
 - [Final Project Instructions](https://docs.google.com/document/d/1pW-QzEenwRTEu8meupA_ELVcAmOtDSTq11QFCaO1eVY/edit?usp=sharing) 
 - [Study Group Assignments](https://docs.google.com/spreadsheets/d/16rPEUDtxgMFQNmf1PkByN9XN1T9oZv00_2_LPFyYLtU/edit?usp=sharing)
@@ -41,7 +41,7 @@ toc: true
 
 ## Applied studies referenced in EDS 241 - organized by topic!
 
-### General topics - data science
+### Data science - general topics 
 
 **Reproducibility**
 
@@ -53,11 +53,17 @@ toc: true
 - [Animated Visualizations - ‘R Psychologist’ - Kristoffer Magnusson](https://rpsychologist.com/viz/)
 - [Larsen, Meng, & Kendall 2018 - Causal analysis in control–impact ecological studies with observational data](https://drive.google.com/file/d/1hFw2OrEzk8o9zDJr1Qx_AD4oUUAXeRpo/view)
 
-### Generalized Linear Models (GLMs)
+### Regression
+
+**Ordinary Least Squares (OLS)**
+
+**Generalized Linear Models (GLMs)**
 
 - [Carruthers et al., 2008 - Generalized linear models: model selection, diagnostics, and overdispersion](https://drive.google.com/file/d/1msSVHclxUO-zMbZTLHqksvDel9m51h0R/view)
 
-### Causal inference research conducted at Bren & UCSB
+### Causal inference - Econometrics
+
+**Causal inference research conducted at Bren & UCSB**
 
 - [Sarah Anderson - Monitoring → Compliance](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12428?casa_token=G2Ae3oUP-JcAAAAA%3Azcz3yAxUltiPl0U-XnImZJdf5jSsN5oyvlEtOxPXZG5Yj0AFiX1fzn3vQR8F0iVbGBnYEc17AD4uYq10BA)
 - [Mark Buntaine - Citizen participation → Env. Policy](https://www.aeaweb.org/articles?id=10.1257/aer.20221215)
@@ -70,7 +76,7 @@ toc: true
 ### Experimental Design
 
 - [Buntaine et al., 2024 - Social competition drives collective action to reduce informal waste burning in Uganda](https://drive.google.com/file/d/1bvW40xguud2Y_bRnxwjCCZSmAZALgQTn/view)
-    - [EDS 241 - Glossary of Econometrics and Statistics Terms](https://docs.google.com/document/d/1RIudsVcYhWGpqC-Uftk9UTz3PIq6stVyEpT44EPNgpE/edit?usp=drive_link)
+    - [EDS 241 - Glossary of Econometric and Statistical Terms](https://docs.google.com/document/d/1RIudsVcYhWGpqC-Uftk9UTz3PIq6stVyEpT44EPNgpE/edit?usp=drive_link)
     - [J-PAL power calculation tool](https://www.povertyactionlab.org/resource/power-calculations)
     - [EGAP power calculation tool](https://egap.shinyapps.io/power-app/)
 

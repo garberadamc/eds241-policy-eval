@@ -8,7 +8,7 @@ description: "Wednesday January 15^th^, 2025"
 
 | Lecture slides | Lab |  Answer key |
 |----------------|------|------------|
-| [Lecture 2](https://drive.google.com/file/d/1DpBNJflvGEBtA3gKllV7wTPu8kYFLjpb/view?usp=sharing){target="_blank"} | [Handout: Lab 1 Generalize Fast!](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast){target="_blank"} ,  [Repository: Lab 1](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *See repository* |
+| [Lecture 2](https://drive.google.com/file/d/1DpBNJflvGEBtA3gKllV7wTPu8kYFLjpb/view?usp=sharing){target="_blank"} | [Handout: Lab 1](https://garberadamc.github.io/project-site/Lab1-Generalize-Fast){target="_blank"} ,  [Repository: Lab 1](https://github.com/garberadamc/Lab1-EDS241-Buntaine24){target="_blank"} | *See repository* |
 
 : {.hover .bordered tbl-colwidths="[50,25,25]"} 
 
