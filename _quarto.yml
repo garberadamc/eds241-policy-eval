@@ -19,31 +19,31 @@ website:
         href: https://docs.google.com/document/d/18vjjCoYy5GBDBaK8tXu2S5TPpVdwUT-3k6qK1iu5NZc/edit?usp=sharing
         target: _blank
       - text: course materials
-        menu:
-          - text: week 1 (08/01/25)
-            href: course-materials/week1.qmd
-          - text: week 2 (15/01/25)
-            href: course-materials/week2.qmd
-          - text: week 3 (22/01/25)
-            href: course-materials/week3.qmd
-          - text: week 4 (29/01/25)
-            href: course-materials/week4.qmd          
-          - text: week 5 (05/02/25)
-            href: course-materials/week5.qmd
-          - text: week 6 (12/02/25)
-            href: course-materials/week6.qmd        
-          - text: week 7 (19/02/25)
-            href: course-materials/week7.qmd
-          - text: week 8 (26/02/25)
-            href: course-materials/week8.qmd    
-          - text: week 9 (05/03/25)
-            href: course-materials/week9.qmd  
-          - text: week 10 (12/03/25)
-            href: course-materials/week10.qmd  
-      - text: assignments
-        href: assignments.qmd
-      - text: resources
-        href: resources.qmd
+        #menu:
+         #- text: week 1 (08/01/25)
+         #  href: course-materials/week1.qmd
+         #- text: week 2 (15/01/25)
+         #  href: course-materials/week2.qmd
+         #- text: week 3 (22/01/25)
+         #  href: course-materials/week3.qmd
+         #- text: week 4 (29/01/25)
+         #  href: course-materials/week4.qmd          
+         #- text: week 5 (05/02/25)
+         #  href: course-materials/week5.qmd
+         #- text: week 6 (12/02/25)
+         #  href: course-materials/week6.qmd        
+         #- text: week 7 (19/02/25)
+         #  href: course-materials/week7.qmd
+         #- text: week 8 (26/02/25)
+         #  href: course-materials/week8.qmd    
+         #- text: week 9 (05/03/25)
+         #  href: course-materials/week9.qmd  
+         #- text: week 10 (12/03/25)
+         #  href: course-materials/week10.qmd  
+      #- text: assignments
+      #  href: assignments.qmd
+      #- text: resources
+      #  href: resources.qmd
       - icon: github
         menu:
           - text: Source Code
